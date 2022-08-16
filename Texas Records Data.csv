@@ -1,0 +1,30 @@
+,applicable_manufacturer_or_applicable_gpo_making_payment_name,nature_of_payment_or_transfer_of_value,date_of_payment,applicable_manufacturer_or_applicable_gpo_making_payment_id,record_id,total,covered_recipient_profile_primary_specialty,covered_recipient_profile_id,covered_recipient_profile_zipcode
+0,Stryker Corporation,Food and Beverage,10/04/2016,100000010503,393709708,141.48,Allopathic & Osteopathic Physicians|Internal Medicine,1096634,75204
+1,"E.R. Squibb & Sons, L.L.C.",Food and Beverage,01/12/2018,100000005499,572155715,54.19,Allopathic & Osteopathic Physicians|Internal Medicine,1096634,75204
+0,Amgen Inc.,Food and Beverage,10/20/2021,100000000203,826482911,124.45,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,11047303,78666
+1,AbbVie Inc.,Food and Beverage,07/13/2021,100000000204,796311671,99.67,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,11047303,78666
+2,"SI-BONE, INC.",Food and Beverage,01/12/2021,100000011102,845535173,96.6,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,11047303,78666
+3,"Genentech USA, Inc.",Food and Beverage,10/12/2021,100000000226,836026437,71.38,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,11047303,78666
+0,Ferring International Center SA,Consulting Fee,02/05/2016,100000005366,395114302,6362.99,Allopathic & Osteopathic Physicians|Obstetrics & Gynecology|Maternal & Fetal Medicine,449779,77030
+0,"Carl Zeiss Meditec, Inc.",Food and Beverage,09/14/2016,100000005433,413142128,138.93,Allopathic & Osteopathic Physicians|Ophthalmology,737873,78628
+1,"AbbVie, Inc.",Food and Beverage,10/12/2016,100000000204,408490346,102.06,Allopathic & Osteopathic Physicians|Ophthalmology,737873,78628
+2,Allergan Inc.,Food and Beverage,06/15/2016,100000000278,380968664,24.46,Allopathic & Osteopathic Physicians|Ophthalmology,737873,78628
+3,"Optos, Inc.",Entertainment,06/15/2016,100000000312,386293862,19.45,Allopathic & Osteopathic Physicians|Ophthalmology,737873,78628
+4,Shire North American Group Inc,Food and Beverage,10/12/2017,100000061292,466850908,121.85,Allopathic & Osteopathic Physicians|Ophthalmology,737873,78628
+5,"Heidelberg Engineering, Inc.",Food and Beverage,07/28/2017,100000010620,465424985,115.35,Allopathic & Osteopathic Physicians|Ophthalmology,737873,78628
+6,Glaukos Corporation,Food and Beverage,05/02/2018,100000000102,617306613,42.31,Allopathic & Osteopathic Physicians|Ophthalmology,737873,78628
+7,Alcon Laboratories Inc,Food and Beverage,01/04/2018,100000005405,606074301,15.81,Allopathic & Osteopathic Physicians|Ophthalmology,737873,78628
+8,Novartis Pharmaceuticals Corporation,Food and Beverage,08/06/2018,100000000228,607686293,11.75,Allopathic & Osteopathic Physicians|Ophthalmology,737873,78628
+9,"Aerie Pharmaceuticals, Inc.",Food and Beverage,08/22/2019,100000216803,662001943,117.87,Allopathic & Osteopathic Physicians|Ophthalmology,737873,78628
+10,"Johnson & Johnson Surgical Vision, Inc.",Food and Beverage,01/23/2020,100000196772,718985107,75.45,Allopathic & Osteopathic Physicians|Ophthalmology,737873,78628
+11,Carl Zeiss Meditec AG,Gift,04/03/2020,100000061389,728033145,19.4,Allopathic & Osteopathic Physicians|Ophthalmology,737873,78628
+12,"Johnson & Johnson Surgical Vision, Inc.",Food and Beverage,06/23/2021,100000196772,787743651,121.95,Allopathic & Osteopathic Physicians|Ophthalmology,737873,78628
+13,"Johnson & Johnson Surgical Vision, Inc.",Food and Beverage,11/19/2021,100000196772,787743635,112.49,Allopathic & Osteopathic Physicians|Ophthalmology,737873,78628
+0,"Novabay Pharmaceuticals, Inc.",Food and Beverage,09/12/2016,100000010967,402905908,64.48,Eye and Vision Services Providers|Optometrist,1175096,78148
+1,ABB Con-Cise Optical Group LLC,Food and Beverage,11/02/2016,100000000190,370521880,53.2,Eye and Vision Services Providers|Optometrist,1175096,78148
+2,Shire North American Group Inc,Education,09/14/2016,100000061292,393096318,37.65,Eye and Vision Services Providers|Optometrist,1175096,78148
+3,Valeant Pharmaceuticals North America LLC,Food and Beverage,01/19/2016,100000010935,410165936,23.87,Eye and Vision Services Providers|Optometrist,1175096,78148
+4,Coopervision Inc.,Food and Beverage,09/08/2016,100000005728,415806821,20.85,Eye and Vision Services Providers|Optometrist,1175096,78148
+5,"Johnson & Johnson Surgical Vision, Inc.",Food and Beverage,06/30/2017,100000196772,453626167,108.78,Eye and Vision Services Providers|Optometrist,1175096,78148
+6,Valeant Pharmaceuticals North America LLC,Food and Beverage,02/15/2017,100000010935,444181507,34.02,Eye and Vision Services Providers|Optometrist,1175096,78148
+7,ABB Con-Cise Optical Group LLC,Food and Beverage,12/18/2019,100000000190,686113375,34.08,Eye and Vision Services Providers|Optometrist,1175096,78148
