@@ -1,0 +1,656 @@
+,covered_recipient_profile_primary_specialty,covered_recipient_profile_id,covered_recipient_npi,covered_recipient_profile_zipcode,covered_recipient_profile_first_name,covered_recipient_profile_last_name,covered_recipient_profile_type
+0,Dental Providers|Dentist|General Practice,992202,1073892220.0,76259,TYLER,MYSER,Covered Recipient Physician
+1,Dental Providers|Dentist|General Practice,2452382,1053865147.0,76259,RICHARD,WOLF,Covered Recipient Physician
+2,Physician Assistants & Advanced Practice Nursing Providers|Physician Assistant,10861109,1093022568.0,78046,CESAR,BANUELOS,Covered Recipient Non-Physician Practitioner
+3,Allopathic & Osteopathic Physicians|Pain Medicine|Interventional Pain Medicine,361927,1972941904.0,78046,ASIF,ALI,Covered Recipient Physician
+4,Dental Providers|Dentist|General Practice,508587,1104233998.0,78046,EUI SIK,SHIN,Covered Recipient Physician
+5,Allopathic & Osteopathic Physicians|Internal Medicine|Gastroenterology,223820,1952308108.0,79124,AMIT,TREHAN,Covered Recipient Physician
+6,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner,10691944,1235314063.0,79124,PAMELA,BERGERON,Covered Recipient Non-Physician Practitioner
+7,"Physician Assistants & Advanced Practice Nursing Providers|Nurse Anesthetist, Certified Registered",10558174,1023516515.0,79124,AARON,LANDERS,Covered Recipient Non-Physician Practitioner
+8,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10647283,1811469471.0,75154,BARI,EICHELBAUM,Covered Recipient Non-Physician Practitioner
+9,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10488431,1710384508.0,75154,TOBI,POMEROY,Covered Recipient Non-Physician Practitioner
+10,Allopathic & Osteopathic Physicians|Family Medicine,1113756,1356566384.0,75154,SANFORD,FUNG,Covered Recipient Physician
+11,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10752558,1821425133.0,79563,NICOLE,VOTAW,Covered Recipient Non-Physician Practitioner
+12,Allopathic & Osteopathic Physicians|Internal Medicine|Cardiovascular Disease,324659,1164476602.0,78026,JULES,PEAN,Covered Recipient Physician
+13,Allopathic & Osteopathic Physicians|Obstetrics & Gynecology,751288,1619179728.0,78026,JULIANA,RODRIGUEZ MARTINEZ,Covered Recipient Physician
+14,Podiatric Medicine & Surgery Service Providers|Podiatrist,506182,1013981448.0,78026,ANIE,CHERIAN,Covered Recipient Physician
+15,,265402,1841321387.0,76226,CINDI,MARSDEN,Covered Recipient Physician
+16,Allopathic & Osteopathic Physicians|Pediatrics,68203,1497948913.0,76226,REBECCA,BUTLER,Covered Recipient Physician
+17,Allopathic & Osteopathic Physicians|Pediatrics,8957360,1942733365.0,76226,JANET,WEBB,Covered Recipient Physician
+18,Allopathic & Osteopathic Physicians|Psychiatry & Neurology|Psychiatry,2465067,1245524495.0,77063,SAIRA,MUSHTAQ,Covered Recipient Physician
+19,Allopathic & Osteopathic Physicians|Dermatology,274627,1043470297.0,77063,NEDA,NOSRATI,Covered Recipient Physician
+20,Dental Providers|Dentist|General Practice,877228,1063514982.0,77063,SAM,DAVIS,Covered Recipient Physician
+21,Allopathic & Osteopathic Physicians|Family Medicine,947357,1518934553.0,78241,MALIWAN,FRYLING,Covered Recipient Physician
+22,Allopathic & Osteopathic Physicians|Psychiatry & Neurology|Psychiatry,2950014,1518133156.0,77035,CORY,WALKER,Covered Recipient Physician
+23,Dental Providers|Dentist|General Practice,865500,1659364198.0,77035,RUSSELL,HILLIARD,Covered Recipient Physician
+24,Chiropractic Providers|Chiropractor,870708,1831184308.0,77035,DERRILL,JAMES,Covered Recipient Physician
+25,Allopathic & Osteopathic Physicians|Family Medicine,7224350,1487000196.0,79855,DAVID,CUMMINGS,Covered Recipient Physician
+26,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Adult Health,775147,1467678581.0,79855,GILDA,MORALES,Covered Recipient Physician/Covered Recipient Non-Physician Practitioner
+27,Allopathic & Osteopathic Physicians|Surgery|Plastic and Reconstructive Surgery,1233910,1598082687.0,78610,JEFF,LUH,Covered Recipient Physician
+28,Allopathic & Osteopathic Physicians|Family Medicine,831681,1457678336.0,78610,HEIDI,OSTLER,Covered Recipient Physician
+29,Allopathic & Osteopathic Physicians|Emergency Medicine,1991902,1073969978.0,78610,JAISMEEN,NIJJAR,Covered Recipient Physician
+30,"Physician Assistants & Advanced Practice Nursing Providers|Nurse Anesthetist, Certified Registered",11248465,1639709397.0,75048,TIEN,VO,Covered Recipient Non-Physician Practitioner
+31,Dental Providers|Dentist,1062569,1568618601.0,75048,TONY,NGUYEN,Covered Recipient Physician
+32,Eye and Vision Services Providers|Optometrist,1087000,1437166857.0,75048,JUSTIN,BARNETT,Covered Recipient Physician
+33,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10851175,1326587353.0,79347,KRISTEN,NEELY-GILBERT,Covered Recipient Non-Physician Practitioner
+34,Dental Providers|Dentist|General Practice,664389,1578661971.0,79347,ROBERT,LEPARD,Covered Recipient Physician
+35,Physician Assistants & Advanced Practice Nursing Providers|Physician Assistant|Medical,11015743,1871595892.0,79347,SUZANNE,BUNKER,Covered Recipient Non-Physician Practitioner
+36,Allopathic & Osteopathic Physicians|Orthopaedic Surgery,212177,1679579734.0,75702,DAVID,CARNEY,Covered Recipient Physician
+37,Allopathic & Osteopathic Physicians|Family Medicine,600891,1356364178.0,75702,NEDA,ESFANDIARI,Covered Recipient Physician
+38,Allopathic & Osteopathic Physicians|Family Medicine,193896,1275506016.0,75702,KENNETH,CUSHMAN,Covered Recipient Physician
+39,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10766374,1851901409.0,79346,ASHLEY,DAVIDSON,Covered Recipient Non-Physician Practitioner
+40,Allopathic & Osteopathic Physicians|Family Medicine,573719,1396908257.0,79346,GREGORY,ROGERS,Covered Recipient Physician
+41,Allopathic & Osteopathic Physicians|Family Medicine,1047453,1023336211.0,78570,GERARDO,MUNOZ MONACO,Covered Recipient Physician
+42,Physician Assistants & Advanced Practice Nursing Providers|Physician Assistant,10492955,1043628712.0,78570,RICARDO,LERMA,Covered Recipient Non-Physician Practitioner
+43,Physician Assistants & Advanced Practice Nursing Providers|Physician Assistant|Medical,10433872,1598167231.0,78570,SANDRA,RODRIGUEZ,Covered Recipient Non-Physician Practitioner
+44,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10582231,1851999817.0,77517,JOHN,LINARES,Covered Recipient Non-Physician Practitioner
+45,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,11098918,1235607706.0,77517,CHRISTINE,KNIGHTON,Covered Recipient Non-Physician Practitioner
+46,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Primary Care,11105166,1699243766.0,77517,KRISTEN,MABEE,Covered Recipient Non-Physician Practitioner
+47,,1036479,1649287434.0,78043,CARLOS,MORALES-RYAN,Covered Recipient Physician
+48,Allopathic & Osteopathic Physicians|Family Medicine,337127,1427040427.0,78043,MATEO,REYES,Covered Recipient Physician
+49,Allopathic & Osteopathic Physicians|Family Medicine,133547,1942269212.0,78043,OSCAR,PEREZ,Covered Recipient Physician
+50,Physician Assistants & Advanced Practice Nursing Providers|Physician Assistant,10966951,1184293011.0,76248,MEAGAN,MOORE,Covered Recipient Non-Physician Practitioner
+51,Physician Assistants & Advanced Practice Nursing Providers|Physician Assistant,10727442,1891874277.0,76248,MICHELLE,TORRES,Covered Recipient Non-Physician Practitioner
+52,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner,11127605,1396388476.0,76248,ZAINAB,ALI,Covered Recipient Non-Physician Practitioner
+53,Dental Providers|Dentist,626819,1295814523.0,75022,LAURI,BARGE,Covered Recipient Physician
+54,Physician Assistants & Advanced Practice Nursing Providers|Physician Assistant,11066451,1730852500.0,75022,JULIANNA,MASONHEIMER,Covered Recipient Non-Physician Practitioner
+55,,1181045,1720291735.0,75022,SHAB,KRISH,Covered Recipient Physician
+56,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,3790448,1558579664.0,77053,ADRIANA,O NEAL,Covered Recipient Non-Physician Practitioner
+57,Allopathic & Osteopathic Physicians|Pediatrics,911438,1255446589.0,77053,RHONDA,DICKEY,Covered Recipient Physician
+58,Dental Providers|Dentist|General Practice,603656,1447471461.0,77053,EMILY,LEE,Covered Recipient Physician
+59,Allopathic & Osteopathic Physicians|Family Medicine,783668,1760641187.0,76442,MOLLY,GRAY,Covered Recipient Physician
+60,Allopathic & Osteopathic Physicians|Family Medicine,31058,1699748434.0,76442,GARRY,DAVIS,Covered Recipient Physician
+61,Allopathic & Osteopathic Physicians|Family Medicine,284635,1265483366.0,76442,JEFFREY,HUTCHINS,Covered Recipient Physician
+62,Allopathic & Osteopathic Physicians|Physical Medicine & Rehabilitation,1155223,1811906308.0,75246,LESLIE,PORTER,Covered Recipient Physician
+63,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Adult Health,10611078,1083985436.0,75246,LISA,ARNOLD,Covered Recipient Non-Physician Practitioner
+64,Allopathic & Osteopathic Physicians|Internal Medicine|Medical Oncology,833077,1518059807.0,75246,MOSHE,LEVY,Covered Recipient Physician
+65,Dental Providers|Dentist|General Practice,461048,1437173390.0,77565,STACIE,HOLT,Covered Recipient Physician
+66,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10844752,1821535469.0,77565,JENNIFER,DECKMAN,Covered Recipient Non-Physician Practitioner
+67,Chiropractic Providers|Chiropractor,860586,1487700357.0,77565,KATHRYN,DESPLINTER,Covered Recipient Physician
+68,Allopathic & Osteopathic Physicians|Family Medicine,1312840,1578810958.0,77504,JUAN,VAQUERANO RAIS,Covered Recipient Physician
+69,Allopathic & Osteopathic Physicians|Anesthesiology,152151,1346464773.0,77504,ANTHONY,BROWN,Covered Recipient Physician
+70,Allopathic & Osteopathic Physicians|Orthopaedic Surgery,1116936,1467680793.0,77504,KENNETH,CALDWELL,Covered Recipient Physician
+71,Eye and Vision Services Providers|Optometrist,1156104,1841261260.0,77362,TESSA,MARKUS,Covered Recipient Physician
+72,Dental Providers|Dentist|General Practice,182989,1033498233.0,77362,MAULIK,NANAVATI,Covered Recipient Physician
+73,Allopathic & Osteopathic Physicians|Obstetrics & Gynecology|Gynecology,125485,1770663254.0,77362,GARY,DEBAKEY,Covered Recipient Physician
+74,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10987671,1720645666.0,77083,JUBRIL,ADEDIRAN,Covered Recipient Non-Physician Practitioner
+75,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Psychiatric/Mental Health,10776738,1669906681.0,77083,CLARA,ARREY,Covered Recipient Non-Physician Practitioner
+76,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,11080269,1831641711.0,77083,OLGA,BOUCHARD,Covered Recipient Non-Physician Practitioner
+77,Allopathic & Osteopathic Physicians|Family Medicine,92371,1033158290.0,78061,OSCAR,GARZA,Covered Recipient Physician
+78,Dental Providers|Dentist,1004923,1538256110.0,78061,JAMES,GRANDER,Covered Recipient Physician
+79,Allopathic & Osteopathic Physicians|Surgery,7222543,1023470903.0,78061,HAROLD,CAMPBELL,Covered Recipient Physician
+80,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner,10864098,1306870811.0,79734,REBECCA,LEWIS,Covered Recipient Non-Physician Practitioner
+81,Allopathic & Osteopathic Physicians|Family Medicine,234549,1184692881.0,79734,JAMES,LUECKE,Covered Recipient Physician
+82,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,11148915,1023613262.0,78014,LISA,VILLARREAL,Covered Recipient Non-Physician Practitioner
+83,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10689641,1053733014.0,78014,DORA,FAST,Covered Recipient Non-Physician Practitioner
+84,Physician Assistants & Advanced Practice Nursing Providers|Physician Assistant,10827761,1538340823.0,78014,JOSHUA,STONER,Covered Recipient Non-Physician Practitioner
+85,Chiropractic Providers|Chiropractor,1009034,1679665756.0,78942,JAMES,STEWART,Covered Recipient Physician
+86,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10903084,1285709774.0,78942,MARY,WELLS,Covered Recipient Non-Physician Practitioner
+87,Allopathic & Osteopathic Physicians|Psychiatry & Neurology|Psychiatry,570068,1255547055.0,78942,ELIZABETH,HILL,Covered Recipient Physician
+88,Allopathic & Osteopathic Physicians|Family Medicine,478229,1023180783.0,76457,BILLY,DAYTON,Covered Recipient Physician
+89,Dental Providers|Dentist|General Practice,1054913,1316147218.0,76457,CRAIG,ROSE,Covered Recipient Physician
+90,Dental Providers|Dentist|General Practice,1397871,1023365905.0,76108,MANSHI,PATEL,Covered Recipient Physician
+91,Dental Providers|Dentist|General Practice,4483015,1184118465.0,76108,LISA,TRAN,Covered Recipient Physician
+92,Allopathic & Osteopathic Physicians|Preventive Medicine|Undersea and Hyperbaric Medicine,339693,1497787873.0,76108,KELLY,GRIMES,Covered Recipient Physician
+93,Allopathic & Osteopathic Physicians|Psychiatry & Neurology|Neurology,818355,1982852166.0,78756,YESSAR,HUSSAIN,Covered Recipient Physician
+94,Allopathic & Osteopathic Physicians|Surgery|Vascular Surgery,355039,1811191794.0,78756,MAZIN,FOTEH,Covered Recipient Physician
+95,Allopathic & Osteopathic Physicians|Internal Medicine|Interventional Cardiology,331827,1316990922.0,78756,MATTHEW,SELMON,Covered Recipient Physician
+96,Allopathic & Osteopathic Physicians|Emergency Medicine,389298,1912944034.0,76182,JODY,LORIMER,Covered Recipient Physician
+97,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10773840,1477188373.0,76182,SARAH,TRAN,Covered Recipient Non-Physician Practitioner
+98,Eye and Vision Services Providers|Optometrist,230522,1083621767.0,76182,ARLENE,SCHWARTZ,Covered Recipient Physician
+99,Allopathic & Osteopathic Physicians|Dermatology,267972,1912957101.0,75460,PHILLIP,BANDEL,Covered Recipient Physician
+100,Physician Assistants & Advanced Practice Nursing Providers|Physician Assistant|Medical,10812093,1386004570.0,75460,KATHERINE,CHADWICK,Covered Recipient Non-Physician Practitioner
+101,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner,10902243,1225676703.0,75460,LYNN,DISHMAN,Covered Recipient Non-Physician Practitioner
+102,Allopathic & Osteopathic Physicians|Family Medicine,952305,1689889255.0,75457,MARK,HAMILTON,Covered Recipient Physician
+103,Allopathic & Osteopathic Physicians|Family Medicine,904799,1033117973.0,75457,MICHAEL,WALKER,Covered Recipient Physician
+104,Allopathic & Osteopathic Physicians|Family Medicine,415869,1851327209.0,75457,IRENE,PRATHER,Covered Recipient Physician
+105,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10558202,1023586633.0,77865,LACY,NEYLAND,Covered Recipient Non-Physician Practitioner
+106,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner,11129216,1538392600.0,75951,BELINDA,DANIEL,Covered Recipient Non-Physician Practitioner
+107,Eye and Vision Services Providers|Optometrist,405336,1477786549.0,75951,PATRICIA,GALOS,Covered Recipient Physician
+108,Allopathic & Osteopathic Physicians|Urology,75061,1669479598.0,75951,MAGED,BOTROS,Covered Recipient Physician
+109,Allopathic & Osteopathic Physicians|Obstetrics & Gynecology,62472,1386737088.0,79106,CARIN,APPEL,Covered Recipient Physician
+110,Allopathic & Osteopathic Physicians|Radiology|Radiation Oncology,668801,1720010945.0,79106,JOHN,GWOZDZ,Covered Recipient Physician
+111,Dental Providers|Dentist|General Practice,1236111,1669432282.0,79106,MICHAEL,WARD,Covered Recipient Physician
+112,Allopathic & Osteopathic Physicians|Internal Medicine|Nephrology,710771,1184873234.0,77002,MUHAMMAD,AJMAL,Covered Recipient Physician
+113,Chiropractic Providers|Chiropractor,927808,1821362971.0,77002,LANCE,IGUESS,Covered Recipient Physician
+114,Allopathic & Osteopathic Physicians|Anesthesiology,60579,1336149244.0,77002,THANH,NGUYEN,Covered Recipient Physician
+115,,270458,1952383978.0,78596,WILLIAM,GILLUM,Covered Recipient Physician
+116,Physician Assistants & Advanced Practice Nursing Providers|Physician Assistant|Medical,10574748,1316219355.0,78596,NELDA,MONTANO,Covered Recipient Non-Physician Practitioner
+117,Dental Providers|Dentist,918407,1508032897.0,78596,JAMES,JAREMA,Covered Recipient Physician
+118,Allopathic & Osteopathic Physicians|Obstetrics & Gynecology,249081,1497763247.0,76229,ANNA,BECEIRO,Covered Recipient Physician
+119,Allopathic & Osteopathic Physicians|Surgery|Plastic and Reconstructive Surgery,699388,1790707883.0,79119,DOMINIC,HEFFEL,Covered Recipient Physician
+120,Allopathic & Osteopathic Physicians|Orthopaedic Surgery|Hand Surgery,200803,1427039130.0,79119,ROUZBEH,KORDESTANI,Covered Recipient Physician
+121,Dental Providers|Dentist|General Practice,843322,1861576829.0,79119,RICKY,SHORT,Covered Recipient Physician
+122,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10723974,1679821292.0,78731,MICHAEL,EMERY,Covered Recipient Non-Physician Practitioner
+123,Allopathic & Osteopathic Physicians|Psychiatry & Neurology|Geriatric Psychiatry,739311,1194929489.0,78731,ERICA,GARCIA-PITTMAN,Covered Recipient Physician
+124,Dental Providers|Dentist|General Practice,295759,1528266319.0,78731,KATIE,HADDEN,Covered Recipient Physician
+125,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Primary Care,10576380,1477189165.0,76570,ERIN,HOLLAND,Covered Recipient Non-Physician Practitioner
+126,Allopathic & Osteopathic Physicians|Surgery,168673,1720257454.0,77522,EDWARD,PINA,Covered Recipient Physician
+127,Eye and Vision Services Providers|Optometrist,7906103,1699058032.0,78203,THIEN,NGUYEN,Covered Recipient Physician
+128,Eye and Vision Services Providers|Optometrist,9744100,1356932891.0,78203,JOYCE,ZHANG,Covered Recipient Physician
+129,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner,10964166,1952813123.0,75556,KAREN,BALTAZAR GOMEZ,Covered Recipient Non-Physician Practitioner
+130,Allopathic & Osteopathic Physicians|Radiology|Diagnostic Radiology,1265742,1720082274.0,79410,DAVID,DONALDSON,Covered Recipient Physician
+131,Allopathic & Osteopathic Physicians|Radiology|Diagnostic Radiology,780795,1669440228.0,79410,DAVID,WILLIAMS,Covered Recipient Physician
+132,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner,11185591,1760942973.0,79410,JESSICA,HERNANDEZ,Covered Recipient Non-Physician Practitioner
+133,Allopathic & Osteopathic Physicians|Family Medicine,796318,1215374145.0,77384,RUMANA,HOQUE,Covered Recipient Physician
+134,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10633984,1841758828.0,77384,CLAUDIS,MARTIN,Covered Recipient Non-Physician Practitioner
+135,Allopathic & Osteopathic Physicians|Obstetrics & Gynecology,662686,1518053792.0,77384,JESUS,SAMANIEGO,Covered Recipient Physician
+136,Allopathic & Osteopathic Physicians|Family Medicine,280867,1194787598.0,76643,JAMES,SHARP,Covered Recipient Physician
+137,Allopathic & Osteopathic Physicians|Emergency Medicine,839274,1720142821.0,76643,DENNIS,PLANTE,Covered Recipient Physician
+138,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10512366,1538778543.0,76643,HILDA,DEEN,Covered Recipient Non-Physician Practitioner
+139,Dental Providers|Dentist,1075021,1003026972.0,76084,JOHN,ERICKSON,Covered Recipient Physician
+140,Dental Providers|Dentist,465398,1588073282.0,76084,WILLIAM,POPE,Covered Recipient Physician
+141,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Gerontology,10601678,1346757168.0,77702,MARCIANA,TYLER,Covered Recipient Non-Physician Practitioner
+142,Allopathic & Osteopathic Physicians|Internal Medicine|Infectious Disease,388580,1891882387.0,77702,ORLANDO,SCHAENING,Covered Recipient Physician
+143,Allopathic & Osteopathic Physicians|Urology,283788,1255337051.0,77702,JOHN,HENDERSON,Covered Recipient Physician
+144,Eye and Vision Services Providers|Optometrist,1237501,1710130224.0,77204,CATHERINE,MCDANIEL,Covered Recipient Physician
+145,Eye and Vision Services Providers|Optometrist,399910,1316029606.0,77204,CORINA,BUSUIOC,Covered Recipient Physician
+146,Allopathic & Osteopathic Physicians|Psychiatry & Neurology|Psychiatry,693594,1598032385.0,77204,JON,RUSCIANO,Covered Recipient Physician
+147,Allopathic & Osteopathic Physicians|Family Medicine,190433,1184771362.0,75217,FARZAD,FAZELI,Covered Recipient Physician
+148,Dental Providers|Dentist,1157904,1902968159.0,75217,EVA,WATKIS BYNOE,Covered Recipient Physician
+149,Dental Providers|Dentist,6763348,1831750678.0,75217,RAAD,ALDARAGI,Covered Recipient Physician
+150,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Women's Health,10614676,1356908339.0,75189,SARAH,HENSLEY,Covered Recipient Non-Physician Practitioner
+151,Physician Assistants & Advanced Practice Nursing Providers|Physician Assistant|Surgical,11077255,1578867123.0,75189,JEFFERY,NEUMANN,Covered Recipient Non-Physician Practitioner
+152,Dental Providers|Dentist,996005,1215224456.0,75189,OBAFEMI,ADENUGA,Covered Recipient Physician
+153,Allopathic & Osteopathic Physicians|Internal Medicine|Interventional Cardiology,153589,1376745711.0,75137,GAURAV,GUPTA,Covered Recipient Physician
+154,Allopathic & Osteopathic Physicians|Ophthalmology,869132,1770753568.0,75137,JEFFREY,WILDRIDGE,Covered Recipient Physician
+155,Allopathic & Osteopathic Physicians|Obstetrics & Gynecology,10359,1225037641.0,75137,RONALD,DOTSON,Covered Recipient Physician
+156,Allopathic & Osteopathic Physicians|Surgery,347832,1659563740.0,79782,MARK,SALCONE,Covered Recipient Physician
+157,Allopathic & Osteopathic Physicians|Family Medicine,728630,1811960628.0,79782,CALVIN,CARGILL,Covered Recipient Physician
+158,Allopathic & Osteopathic Physicians|Family Medicine,360547,1942386248.0,79782,MELENCIO,JUAN,Covered Recipient Physician
+159,,2788854,,77216,BYRON,BAILEY,Covered Recipient Physician
+160,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Acute Care,10685544,1760657043.0,77216,KIMBERLY,ALBRIGHT,Covered Recipient Non-Physician Practitioner
+161,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Acute Care,10669922,1588953350.0,77216,KAPHNE,HARRIS,Covered Recipient Non-Physician Practitioner
+162,Dental Providers|Dentist|Periodontics,607265,1578668968.0,77023,OMAR,HAKKI,Covered Recipient Physician
+163,Allopathic & Osteopathic Physicians|Family Medicine,1306857,1003197641.0,77023,BHAVIK,KUMAR,Covered Recipient Physician
+164,Dental Providers|Dentist,391297,1992811616.0,77023,HEATHER,DENT,Covered Recipient Physician
+165,Eye and Vision Services Providers|Optometrist,3720350,1942721576.0,78660,PAUL,NGUYEN,Covered Recipient Physician
+166,Podiatric Medicine & Surgery Service Providers|Podiatrist|Primary Podiatric Medicine,190942,1205866548.0,78660,ROSELINE,TOUSSAINT,Covered Recipient Physician
+167,Physician Assistants & Advanced Practice Nursing Providers|Physician Assistant|Medical,10512949,1598815318.0,78660,MONICA,SHIPMAN,Covered Recipient Non-Physician Practitioner
+168,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10856418,1750939484.0,79904,MEAZA,GERMANE,Covered Recipient Non-Physician Practitioner
+169,Dental Providers|Dentist,189811,1174617013.0,79904,STEVEN,SPIVACK,Covered Recipient Physician
+170,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,11107199,1881272375.0,79904,PRISCILLA,YANEZ,Covered Recipient Non-Physician Practitioner
+171,Allopathic & Osteopathic Physicians|Emergency Medicine|Emergency Medical Services,739515,1205891009.0,75007,ADAM,MILLER,Covered Recipient Physician
+172,Allopathic & Osteopathic Physicians|Pediatrics,626344,1245329135.0,75007,MARGARITA,MILLER,Covered Recipient Physician
+173,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10481016,1144773730.0,75007,SONY,PAUL,Covered Recipient Non-Physician Practitioner
+174,Allopathic & Osteopathic Physicians|Internal Medicine|Cardiovascular Disease,100074,1215906979.0,78201,OBINNA,ISIGUZO,Covered Recipient Physician
+175,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Psychiatric/Mental Health,10775227,1538601075.0,78201,ALEBACHEW,KINDIE,Covered Recipient Non-Physician Practitioner
+176,Eye and Vision Services Providers|Optometrist,588070,1891987566.0,78201,ARACELY,ESCOBEDO,Covered Recipient Physician
+177,Physician Assistants & Advanced Practice Nursing Providers|Physician Assistant,10434889,1609313139.0,78691,KRISTEN,WALLS,Covered Recipient Non-Physician Practitioner
+178,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Psychiatric/Mental Health,10834419,1043843808.0,79908,TARAH,KLINEFELTER,Covered Recipient Non-Physician Practitioner
+179,Allopathic & Osteopathic Physicians|Hospitalist,785671,1831326743.0,78411,MANZOOR,BEVINAL,Covered Recipient Physician
+180,Physician Assistants & Advanced Practice Nursing Providers|Physician Assistant,10477605,1871190439.0,78411,BLESSON,JOHN,Covered Recipient Non-Physician Practitioner
+181,Allopathic & Osteopathic Physicians|Pediatrics,8319446,1699297796.0,78411,BO RUM,KIM,Covered Recipient Physician
+182,Allopathic & Osteopathic Physicians|Internal Medicine,585678,1811015878.0,77808,CHARITY,KARPAC,Covered Recipient Physician
+183,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10668816,1497709380.0,77808,GLENDA,VERNOR,Covered Recipient Non-Physician Practitioner
+184,Allopathic & Osteopathic Physicians|Family Medicine,279542,1164634606.0,77808,SYBIL,TAQUET,Covered Recipient Physician
+185,Dental Providers|Dentist|General Practice,2867292,1679026959.0,77706,HARRISON,LUKE,Covered Recipient Physician
+186,Podiatric Medicine & Surgery Service Providers|Podiatrist|Foot & Ankle Surgery,141055,1114977907.0,77706,ARSHAD,KHAN,Covered Recipient Physician
+187,Dental Providers|Dentist,317995,1013066265.0,77706,JACKSON,PORTER,Covered Recipient Physician
+188,Allopathic & Osteopathic Physicians|Family Medicine,1137101,1174592182.0,76103,LATOSHA,FLOWERS,Covered Recipient Physician
+189,Physician Assistants & Advanced Practice Nursing Providers|Physician Assistant,10719896,1386748804.0,76103,TERESSA,RASHEED,Covered Recipient Non-Physician Practitioner
+190,Physician Assistants & Advanced Practice Nursing Providers|Physician Assistant,10922733,1801811419.0,76103,AMBER,DOWNES,Covered Recipient Non-Physician Practitioner
+191,Allopathic & Osteopathic Physicians|Internal Medicine,1030657,1447232087.0,24014,GRACE,DZIDO,Covered Recipient Physician
+192,Eye and Vision Services Providers|Optometrist,1328948,1578949442.0,78264,STEPHANIE,AGUILAR,Covered Recipient Physician
+193,Dental Providers|Dentist,400268,1285611087.0,78264,ULISES,DE LA CRUZ,Covered Recipient Physician
+194,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner,11064164,1588207468.0,78264,APRIL,LUMPKINS,Covered Recipient Non-Physician Practitioner
+195,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,11064349,1609011725.0,76692,DEBORAH,MOODY,Covered Recipient Non-Physician Practitioner
+196,Physician Assistants & Advanced Practice Nursing Providers|Physician Assistant,10623239,1013438969.0,76692,JAMES,HILL,Covered Recipient Non-Physician Practitioner
+197,Dental Providers|Dentist,253668,1578631875.0,76692,RICHARD,COFER,Covered Recipient Physician
+198,Dental Providers|Dentist|General Practice,797334,1255316014.0,79906,LYNN,CARLISLE,Covered Recipient Physician
+199,Dental Providers|Dentist|General Practice,335384,1396931499.0,79906,MARCUS,LASTIMADO,Covered Recipient Physician
+200,Dental Providers|Dentist|General Practice,462427,1487632972.0,79906,KENNETH,MARQUARDT,Covered Recipient Physician
+201,Allopathic & Osteopathic Physicians|Physical Medicine & Rehabilitation,1029613,1396991162.0,75057,JASON,JORGENSEN,Covered Recipient Physician
+202,Allopathic & Osteopathic Physicians|Family Medicine,1130373,1942231220.0,75057,LOWELL,KOPPEL,Covered Recipient Physician
+203,Allopathic & Osteopathic Physicians|Obstetrics & Gynecology,336695,1437158359.0,75057,STANLEY,FRANKLIN,Covered Recipient Physician
+204,Dental Providers|Dentist,437972,1629106737.0,78748,DANNY,COX,Covered Recipient Physician
+205,Dental Providers|Dentist,964509,1114354818.0,78748,JANELLE,JOHNSON,Covered Recipient Physician
+206,Allopathic & Osteopathic Physicians|Internal Medicine,322422,1114932282.0,78748,RAWAH,TANNOUS,Covered Recipient Physician
+207,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10717114,1144798414.0,77064,AMANDA,WORSHAM,Covered Recipient Non-Physician Practitioner
+208,Eye and Vision Services Providers|Optometrist,755728,1770769812.0,77064,FARAH,NASSER,Covered Recipient Physician
+209,,200561,1427260157.0,77064,CARLOS,GUTIERREZ,Covered Recipient Physician
+210,Allopathic & Osteopathic Physicians|Psychiatry & Neurology|Psychiatry,473032,1841385234.0,78028,ROBERT,STEVENSON,Covered Recipient Physician
+211,Allopathic & Osteopathic Physicians|Family Medicine,949167,1578858759.0,78028,JAMES,FLORES,Covered Recipient Physician
+212,Dental Providers|Dentist|General Practice,589224,1942342670.0,78028,STEPHEN,YARBROUGH,Covered Recipient Physician
+213,Allopathic & Osteopathic Physicians|Internal Medicine,304601,1700872439.0,78212,ROBERT,BORREGO,Covered Recipient Physician
+214,Physician Assistants & Advanced Practice Nursing Providers|Clinical Nurse Specialist|Psychiatric/Mental Health,10967634,1235168816.0,78212,DIERDRE,FISHER,Covered Recipient Non-Physician Practitioner
+215,Dental Providers|Dentist,966863,1194830778.0,78212,ALLEN,NAVEY,Covered Recipient Physician
+216,Podiatric Medicine & Surgery Service Providers|Podiatrist,161748,1578562476.0,73069,ALLEN,ROHDE,Covered Recipient Physician
+217,Physician Assistants & Advanced Practice Nursing Providers|Physician Assistant|Surgical,10795299,1083293799.0,79407,LEA,CLIFT,Covered Recipient Non-Physician Practitioner
+218,Allopathic & Osteopathic Physicians|Anesthesiology|Pain Medicine,396212,1164429569.0,79407,ROBERT,JOHNSTON,Covered Recipient Physician
+219,Allopathic & Osteopathic Physicians|Radiology|Diagnostic Radiology,919158,1538114699.0,79407,CHARLES,WHEELER,Covered Recipient Physician
+220,Allopathic & Osteopathic Physicians|Internal Medicine,124499,1730171638.0,77868,LUKE,SCAMARDO,Covered Recipient Physician
+221,Physician Assistants & Advanced Practice Nursing Providers|Physician Assistant|Medical,11143022,1578907630.0,77868,CHASARETH,THOMPSON,Covered Recipient Non-Physician Practitioner
+222,Allopathic & Osteopathic Physicians|Obstetrics & Gynecology,968997,1275530768.0,77868,ROLAND,GARZA,Covered Recipient Physician
+223,Dental Providers|Dentist,3659817,1609302553.0,75143,HASSAN,ASGHAR,Covered Recipient Physician
+224,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10828244,1578753224.0,75143,KAREN,STENTZ,Covered Recipient Non-Physician Practitioner
+225,Dental Providers|Dentist|General Practice,299139,1609870187.0,75143,JOHN,LOAR,Covered Recipient Physician
+226,Eye and Vision Services Providers|Optometrist,62275,1386625689.0,76015,CHRISTIANE,ROYAL-MCALEXANDER,Covered Recipient Physician
+227,Allopathic & Osteopathic Physicians|Family Medicine,130945,1891923108.0,76015,LOAN-THY,DANG,Covered Recipient Physician
+228,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10796781,1194366641.0,76015,APRIL,RILEY,Covered Recipient Non-Physician Practitioner
+229,Dental Providers|Dentist|General Practice,117314,1578781779.0,77447,KEITH,GRIMM,Covered Recipient Physician
+230,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Women's Health,10654986,1457744567.0,77447,ERICA,SMITH,Covered Recipient Non-Physician Practitioner
+231,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner,10863179,1235712662.0,76458,ALEXUS,WILLIAMS,Covered Recipient Non-Physician Practitioner
+232,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10507435,1144629197.0,76458,MACKENZIE,PRINCE,Covered Recipient Non-Physician Practitioner
+233,Allopathic & Osteopathic Physicians|Family Medicine,833100,1518109040.0,76458,LARA,PIERCE,Covered Recipient Physician
+234,Dental Providers|Dentist|General Practice,1167530,1245518471.0,76106,CHRISTINE,LE,Covered Recipient Physician
+235,Dental Providers|Dentist,874146,1952529851.0,76106,RAMON,SNEAD,Covered Recipient Physician
+236,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10483347,1326515214.0,76106,SHERRY,LEXINGTON,Covered Recipient Non-Physician Practitioner
+237,Dental Providers|Dentist,4188801,1558884742.0,75227,BLAKE,RICHARD,Covered Recipient Physician
+238,Physician Assistants & Advanced Practice Nursing Providers|Advanced Practice Midwife,10665643,1245567643.0,75227,ILIA,SMITH RANDLE,Covered Recipient Non-Physician Practitioner
+239,Dental Providers|Dentist|General Practice,1037315,1669676532.0,75227,PREEYA,GENZ,Covered Recipient Physician
+240,Allopathic & Osteopathic Physicians|Family Medicine,1178284,1639267305.0,77905,JERRY,CRABTREE,Covered Recipient Physician
+241,Allopathic & Osteopathic Physicians|Family Medicine,305443,1740341940.0,77905,RICHARD,HEARD,Covered Recipient Physician
+242,Allopathic & Osteopathic Physicians|Internal Medicine,1378658,1023308210.0,77905,YASIR,AHMED,Covered Recipient Physician
+243,Dental Providers|Dentist|General Practice,1182900,1790836369.0,75691,DAVID,MCPEEK,Covered Recipient Physician
+244,Allopathic & Osteopathic Physicians|Family Medicine,1065714,1679626097.0,75691,MICHAEL,WEBER,Covered Recipient Physician
+245,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,11034241,1285240077.0,76088,CINDY,BERNARD,Covered Recipient Non-Physician Practitioner
+246,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10997378,1518007335.0,76088,ANGELA,WRIGHT,Covered Recipient Non-Physician Practitioner
+247,Allopathic & Osteopathic Physicians|Urology,312104,1881687002.0,75090,MICHAEL,HILZ,Covered Recipient Physician
+248,Dental Providers|Dentist|General Practice,343313,1578527016.0,75090,JAMES,CARROLL,Covered Recipient Physician
+249,Allopathic & Osteopathic Physicians|Family Medicine,3794006,1639603723.0,75090,SHERRITA,POLK,Covered Recipient Physician
+250,Allopathic & Osteopathic Physicians|Emergency Medicine,1179742,1689691255.0,75783,KIMBERLY,VOGEL,Covered Recipient Physician
+251,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,11144582,1699314062.0,75783,MEGAN,FRANCIS,Covered Recipient Non-Physician Practitioner
+252,Allopathic & Osteopathic Physicians|Family Medicine,151797,1356455356.0,75783,GEORGE,CATHEY,Covered Recipient Physician
+253,Allopathic & Osteopathic Physicians|Internal Medicine,462271,1467778118.0,78235,ROMMEL,DEL ROSARIO,Covered Recipient Physician
+254,Allopathic & Osteopathic Physicians|Anesthesiology|Pain Medicine,1281973,1376854075.0,78235,CHARLES,BRYANT,Covered Recipient Physician
+255,Allopathic & Osteopathic Physicians|Obstetrics & Gynecology,292761,1457644106.0,78235,MARCY,ROSEN,Covered Recipient Physician
+256,Dental Providers|Dentist|General Practice,1321035,1891178539.0,76196,KEON,ANDERSON,Covered Recipient Physician
+257,Allopathic & Osteopathic Physicians|Family Medicine,123553,1710979349.0,79014,ROY,KENDRICK,Covered Recipient Physician
+258,Allopathic & Osteopathic Physicians|Family Medicine,1231964,1518959147.0,79014,GEORGE,COOK,Covered Recipient Physician
+259,Allopathic & Osteopathic Physicians|Family Medicine,735105,1053361055.0,79014,CODY,CULWELL,Covered Recipient Physician
+260,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10838449,1376972943.0,79543,KEVIN,KELLY,Covered Recipient Non-Physician Practitioner
+261,,11307487,1346803996.0,78240,THOMAS,PEDERSON,Covered Recipient Physician
+262,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10802485,1619363306.0,78240,CAROLYN,PETERS,Covered Recipient Non-Physician Practitioner
+263,Allopathic & Osteopathic Physicians|General Practice,169634,1740274497.0,78240,GERARDO,VAZQUEZ,Covered Recipient Physician
+264,Dental Providers|Dentist|General Practice,857119,1356564132.0,78227,JOHN,MARTIN,Covered Recipient Physician
+265,Eye and Vision Services Providers|Optometrist,176630,1902239965.0,78227,NGAN,TO,Covered Recipient Physician
+266,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10868738,1669980603.0,78227,COURTNEY,GARZA,Covered Recipient Non-Physician Practitioner
+267,Dental Providers|Dentist|General Practice,1264833,1689740540.0,79605,AMOS,MAY,Covered Recipient Physician
+268,Dental Providers|Dentist|Periodontics,1286062,1073622296.0,79605,TERI,LOVELACE,Covered Recipient Physician
+269,"Physician Assistants & Advanced Practice Nursing Providers|Nurse Anesthetist, Certified Registered",10557598,1992716658.0,79605,JASON,GOLLIHAR,Covered Recipient Non-Physician Practitioner
+270,Allopathic & Osteopathic Physicians|Family Medicine,372262,1295780005.0,78576,EDUARDO,GUZMAN,Covered Recipient Physician
+271,Dental Providers|Dentist|General Practice,1116277,1447489463.0,77081,SURACHON,WEERACHARTKUL,Covered Recipient Physician
+272,Podiatric Medicine & Surgery Service Providers|Podiatrist|Foot & Ankle Surgery,576135,1487636387.0,77081,MICHAEL,MINEO,Covered Recipient Physician
+273,Allopathic & Osteopathic Physicians|Internal Medicine,398686,1255330106.0,77081,MOE,ZAW,Covered Recipient Physician
+274,Allopathic & Osteopathic Physicians|Obstetrics & Gynecology,1390557,1154741601.0,76508,MARGARET,HINES,Covered Recipient Physician
+275,Allopathic & Osteopathic Physicians|Pediatrics,642992,1821058215.0,76508,SUSAN,NICKEL,Covered Recipient Physician
+276,"Physician Assistants & Advanced Practice Nursing Providers|Nurse Anesthetist, Certified Registered",10987374,1750473716.0,76508,TERRY,GARCIA,Covered Recipient Non-Physician Practitioner
+277,Dental Providers|Dentist,1276806,1407868326.0,77365,GILBERT,PRICE,Covered Recipient Physician
+278,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Acute Care,10516397,1821614603.0,77365,MARICEL,JUMAWAN,Covered Recipient Non-Physician Practitioner
+279,Allopathic & Osteopathic Physicians|Internal Medicine,728884,1821337312.0,77365,EDUARDO,COLIGADO,Covered Recipient Physician
+280,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10502607,1801031067.0,77842,MONA,FERGUSON,Covered Recipient Non-Physician Practitioner
+281,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10933249,1568423259.0,77842,JAMES,GRAY,Covered Recipient Non-Physician Practitioner
+282,Allopathic & Osteopathic Physicians|Pediatrics,763195,1043284375.0,95601,SUZANNE,GOMEZ-DIAZ,Covered Recipient Physician
+283,Allopathic & Osteopathic Physicians|Internal Medicine|Gastroenterology,1138041,1205896214.0,76180,MARK,MURRAY,Covered Recipient Physician
+284,Allopathic & Osteopathic Physicians|Urology,250900,1548256464.0,76180,SHERRY,GORDON,Covered Recipient Physician
+285,Allopathic & Osteopathic Physicians|Family Medicine,141490,1114915493.0,76180,JOSEPH,LAMBERT,Covered Recipient Physician
+286,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10466586,1033658190.0,77003,ALEXANDRA,FISER,Covered Recipient Non-Physician Practitioner
+287,Physician Assistants & Advanced Practice Nursing Providers|Physician Assistant,10533063,1124431655.0,77003,ELIZABETH,ONTIVEROS,Covered Recipient Non-Physician Practitioner
+288,Allopathic & Osteopathic Physicians|Family Medicine,254290,1598747990.0,77003,GERMAN,RAMOS,Covered Recipient Physician
+289,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,11094535,1922500891.0,77429,SONIA,HERNANDEZ,Covered Recipient Non-Physician Practitioner
+290,Allopathic & Osteopathic Physicians|Obstetrics & Gynecology,280278,1184676710.0,77429,IRINA,KARBAN,Covered Recipient Physician
+291,Allopathic & Osteopathic Physicians|Radiology|Diagnostic Radiology,5094,1124018791.0,77429,FRANK,MORELLO,Covered Recipient Physician
+292,Allopathic & Osteopathic Physicians|Family Medicine,208257,1609844356.0,76450,WILLIAM,MARTIN,Covered Recipient Physician
+293,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,11153268,1376913491.0,76450,TERESA,MCGUINNESS,Covered Recipient Non-Physician Practitioner
+294,Allopathic & Osteopathic Physicians|Family Medicine,4219440,1407243033.0,76450,MICHAEL,CASTILLO,Covered Recipient Physician
+295,Allopathic & Osteopathic Physicians|Internal Medicine,6727291,1295117836.0,79918,JOHN,HEATHCOTE,Covered Recipient Physician
+296,Eye and Vision Services Providers|Optometrist,4254380,1174005243.0,79918,NATHAN,DEDERMAN,Covered Recipient Physician
+297,Allopathic & Osteopathic Physicians|Internal Medicine|Critical Care Medicine,5699472,1003046194.0,79918,SARAH,PETTEYS,Covered Recipient Physician
+298,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Pediatrics,10730089,1134710411.0,78251,JESSICA,SARABIA,Covered Recipient Non-Physician Practitioner
+299,Dental Providers|Dentist|General Practice,5738886,1366002875.0,78251,MICAH,ASADI,Covered Recipient Physician
+300,Allopathic & Osteopathic Physicians|Family Medicine,1116758,1467745554.0,78251,RODRIGO,NAJERA,Covered Recipient Physician
+301,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,11072332,1205354578.0,79045,MARY,AVILA,Covered Recipient Non-Physician Practitioner
+302,Allopathic & Osteopathic Physicians|Family Medicine,784236,1780723791.0,79045,TREVOR,ROHM,Covered Recipient Physician
+303,Dental Providers|Dentist|General Practice,343081,1548289572.0,79045,STANLEY,FRY,Covered Recipient Physician
+304,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10840570,1487181681.0,76547,MELANIE,MURCHISON,Covered Recipient Non-Physician Practitioner
+305,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Women's Health,10943968,1396032538.0,75391,DOMINGA,CASENAS,Covered Recipient Non-Physician Practitioner
+306,Allopathic & Osteopathic Physicians|Ophthalmology|Retina Specialist,1397772,1053654384.0,75035,MAHDI,ROSTAMIZADEH,Covered Recipient Physician
+307,Dental Providers|Dentist|General Practice,1369649,1265814297.0,75035,JOEL,SKOUSEN,Covered Recipient Physician
+308,Allopathic & Osteopathic Physicians|Family Medicine,4483016,1184124174.0,75035,ASHLEY,LUNSFORD,Covered Recipient Physician/Covered Recipient Non-Physician Practitioner
+309,Allopathic & Osteopathic Physicians|Family Medicine,413231,1750567228.0,76374,AARON,PURDY,Covered Recipient Physician
+310,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10847023,1003467176.0,76374,BRANDIE,ELLIOTT,Covered Recipient Non-Physician Practitioner
+311,Allopathic & Osteopathic Physicians|Emergency Medicine,1171022,1376577999.0,76374,AKHTAR,HOSSAIN,Covered Recipient Physician
+312,Dental Providers|Dentist,4315383,1831685908.0,77418,MONICA,ANDERSON,Covered Recipient Physician
+313,Dental Providers|Dentist|General Practice,316274,1962666354.0,77418,JUAN,LUEKENGA,Covered Recipient Physician
+314,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,11221451,1538721683.0,77418,KATIE,ECKERMANN,Covered Recipient Non-Physician Practitioner
+315,Allopathic & Osteopathic Physicians|Radiology|Diagnostic Radiology,934140,1053347146.0,77210,JANE,ONUFER,Covered Recipient Physician
+316,Physician Assistants & Advanced Practice Nursing Providers|Physician Assistant,10442088,1184902165.0,77210,DONNELL,CARSON,Covered Recipient Non-Physician Practitioner
+317,"Physician Assistants & Advanced Practice Nursing Providers|Nurse Anesthetist, Certified Registered",10739477,1811057532.0,77210,ALISA,MIRZA,Covered Recipient Non-Physician Practitioner
+318,Dental Providers|Dentist,1035573,1609968411.0,77018,KEVIN,YEH,Covered Recipient Physician
+319,Allopathic & Osteopathic Physicians|Family Medicine,147155,1235497132.0,77018,TIYASHI,CHOUDHURY,Covered Recipient Physician
+320,Dental Providers|Dentist,1122855,1679973184.0,77018,TOM,NGUYEN,Covered Recipient Physician
+321,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Pediatrics,10887410,1083956940.0,75087,ROSHNI,PATEL,Covered Recipient Non-Physician Practitioner
+322,Allopathic & Osteopathic Physicians|Ophthalmology,1232092,1518916626.0,75087,JAMES,SAFAR,Covered Recipient Physician
+323,Dental Providers|Dentist|General Practice,2921307,1891212783.0,75087,AUSTIN,FARMER,Covered Recipient Physician
+324,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10487708,1609973999.0,76249,MICHELE,OWENS,Covered Recipient Non-Physician Practitioner
+325,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,1250963,1194812495.0,76249,ADRIAN,JONES,Covered Recipient Physician/Covered Recipient Non-Physician Practitioner
+326,Dental Providers|Dentist|General Practice,153873,1407099260.0,76249,KATRINIA,MCBRIDE,Covered Recipient Physician
+327,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner,10588236,1376173682.0,79520,MELODIE,TARR,Covered Recipient Non-Physician Practitioner
+328,Allopathic & Osteopathic Physicians|Family Medicine,566910,1164426086.0,79520,CHAD,WHITE,Covered Recipient Physician
+329,Allopathic & Osteopathic Physicians|Internal Medicine|Cardiovascular Disease,594522,1134113129.0,77591,SWAYAM,PRAKASH,Covered Recipient Physician
+330,Allopathic & Osteopathic Physicians|Internal Medicine|Cardiovascular Disease,822991,1154405116.0,77591,KODLIPET,DHARMASHANKAR,Covered Recipient Physician
+331,Allopathic & Osteopathic Physicians|Anesthesiology,702737,1902968134.0,77591,COURTNEY,WILLIAMS,Covered Recipient Physician
+332,Allopathic & Osteopathic Physicians|Obstetrics & Gynecology,1204991,1568692309.0,75903,KYLER,SILVER,Covered Recipient Physician
+333,Dental Providers|Dentist|General Practice,3467987,1245778869.0,77422,MICHAEL,MCCANN,Covered Recipient Physician
+334,Dental Providers|Dentist,1157813,1891958955.0,77422,ADAM,OSGA,Covered Recipient Physician
+335,Dental Providers|Dentist,1312540,1871983312.0,79007,ANSHU,BANSAL,Covered Recipient Physician
+336,Allopathic & Osteopathic Physicians|Family Medicine,632909,1467779934.0,79007,ARMANDO,SALCIDO,Covered Recipient Physician
+337,Allopathic & Osteopathic Physicians|Family Medicine,84506,1851499248.0,79007,AMMON,WEBER,Covered Recipient Physician
+338,Eye and Vision Services Providers|Optometrist,1940337,1265882450.0,76240,LANA,HESS,Covered Recipient Physician
+339,Allopathic & Osteopathic Physicians|Obstetrics & Gynecology,442075,1750525226.0,76240,ZAIRA,JORAI-KHAN,Covered Recipient Physician
+340,Allopathic & Osteopathic Physicians|Family Medicine,345359,1619959004.0,76240,MARK,GIBBS,Covered Recipient Physician
+341,Allopathic & Osteopathic Physicians|Ophthalmology,7889020,1962026385.0,77550,RHYS,ISHIHARA,Covered Recipient Physician
+342,Dental Providers|Dentist|General Practice,42985,1932295482.0,77550,JOHN,CARROLL,Covered Recipient Physician
+343,Allopathic & Osteopathic Physicians|Surgery,829030,1366706293.0,77550,DEEPAK,OZHATHIL,Covered Recipient Physician
+344,Allopathic & Osteopathic Physicians|Anesthesiology,528169,1780667394.0,78247,LAURENCE,ROSEN,Covered Recipient Physician
+345,Allopathic & Osteopathic Physicians|Family Medicine,548601,1518985373.0,78247,ANTONIO,GUERRA,Covered Recipient Physician
+346,Allopathic & Osteopathic Physicians|Family Medicine,191477,1235136979.0,78247,SHAMSA,SALEEM,Covered Recipient Physician
+347,Allopathic & Osteopathic Physicians|Emergency Medicine,110006,1437124948.0,77357,JAMESON,BOWLES,Covered Recipient Physician
+348,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10677550,1134610009.0,77357,LIQUN,JIANG,Covered Recipient Non-Physician Practitioner
+349,Dental Providers|Dentist,1003795,1497824502.0,77357,JEFFREY,ADAMS,Covered Recipient Physician
+350,Allopathic & Osteopathic Physicians|Internal Medicine,341412,1518931377.0,78589,NELSON,MATA,Covered Recipient Physician
+351,Dental Providers|Dentist,572451,1356504088.0,78589,THOMAS,BALL,Covered Recipient Physician
+352,Physician Assistants & Advanced Practice Nursing Providers|Physician Assistant,10443154,1275740243.0,78589,OSCAR,VELA,Covered Recipient Non-Physician Practitioner
+353,Dental Providers|Dentist|General Practice,722470,1609961077.0,76908,IRIS,ORTIZ GONZALEZ,Covered Recipient Physician
+354,Allopathic & Osteopathic Physicians|Family Medicine,4217025,1134589211.0,76908,MICHELLE,QUINN,Covered Recipient Physician
+355,Allopathic & Osteopathic Physicians|Preventive Medicine|Occupational Medicine,783536,1750550851.0,76908,SCOTT,EVERSON,Covered Recipient Physician
+356,Allopathic & Osteopathic Physicians|Family Medicine,11393,1265412787.0,75972,JOHN,OGLESBEE,Covered Recipient Physician
+357,Allopathic & Osteopathic Physicians|Emergency Medicine,520118,1508957929.0,75972,JEFFREY,STERLING,Covered Recipient Physician
+358,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,11089643,1548612807.0,75972,DAVID,SMITH,Covered Recipient Non-Physician Practitioner
+359,Allopathic & Osteopathic Physicians|Family Medicine,1224460,1255347787.0,77963,CLAIRE,ZENGERLE,Covered Recipient Physician
+360,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,11092900,1790233864.0,77963,LAURA,BROWN,Covered Recipient Non-Physician Practitioner
+361,Dental Providers|Dentist|General Practice,1161851,1043642713.0,77963,JOSHUA,GIBBONS,Covered Recipient Physician
+362,Allopathic & Osteopathic Physicians|Internal Medicine|Cardiovascular Disease,135293,1982893129.0,77094,SHAHID,RAHMAN,Covered Recipient Physician
+363,Allopathic & Osteopathic Physicians|Orthopaedic Surgery|Orthopaedic Surgery of the Spine,55555,1225036429.0,77094,BERNHARD,MEYER,Covered Recipient Physician
+364,Allopathic & Osteopathic Physicians|Pediatrics,970256,1285955237.0,77094,JENNIFER,SWANSON,Covered Recipient Physician
+365,Allopathic & Osteopathic Physicians|Family Medicine,40363,1902132988.0,76531,CHARLES,JOHNSON,Covered Recipient Physician
+366,Physician Assistants & Advanced Practice Nursing Providers|Physician Assistant,11162771,1073023891.0,76531,GRANT,WARD,Covered Recipient Non-Physician Practitioner
+367,Allopathic & Osteopathic Physicians|Family Medicine,90451,1982777975.0,76531,TIMOTHY,RUDOLPH,Covered Recipient Physician
+368,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner,11114206,1427411032.0,75559,LEE,MCCRARY,Covered Recipient Non-Physician Practitioner
+369,Allopathic & Osteopathic Physicians|Emergency Medicine,183686,1063413656.0,75559,KYLE,GROOM,Covered Recipient Physician
+370,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10554577,1720416308.0,75559,ALMER,HADAWAY,Covered Recipient Non-Physician Practitioner
+371,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10877748,1366952178.0,75969,KELLY,BAKER NEEL,Covered Recipient Non-Physician Practitioner
+372,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10606815,1790010270.0,78102,CARYEL,KRUGER,Covered Recipient Non-Physician Practitioner
+373,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10710211,1639789662.0,78102,AUGUSTINA,OKORONKWO,Covered Recipient Non-Physician Practitioner
+374,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10855221,1619166188.0,78102,MERCEDITA,FLYNN,Covered Recipient Non-Physician Practitioner
+375,Allopathic & Osteopathic Physicians|Family Medicine,662967,1538142617.0,79502,FREDERIC,PASSMANN,Covered Recipient Physician
+376,Allopathic & Osteopathic Physicians|Family Medicine,753186,1689666356.0,79502,KRISHNA,SUNKAVALLI,Covered Recipient Physician
+377,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10976862,1902199755.0,76272,KRYSTAL,BEWLEY,Covered Recipient Non-Physician Practitioner
+378,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner,10721300,1437440039.0,76272,POLLY,KLEMENT,Covered Recipient Non-Physician Practitioner
+379,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10469267,1245341692.0,79016,WENDY,HEARN,Covered Recipient Non-Physician Practitioner
+380,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner,10608551,1912920844.0,79016,CANDY,MARSHALL,Covered Recipient Non-Physician Practitioner
+381,Dental Providers|Dentist|General Practice,1111234,1306192232.0,77474,LINDSAY,DAVIS,Covered Recipient Physician
+382,Dental Providers|Dentist|General Practice,1346954,1912389917.0,77474,DANIEL,SNYDER,Covered Recipient Physician
+383,Dental Providers|Dentist|Orthodontics and Dentofacial Orthopedics,1331979,1730556622.0,77474,LACEY,HARRIS,Covered Recipient Physician
+384,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10648257,1912295320.0,75482,ABBEY,ROPER,Covered Recipient Non-Physician Practitioner
+385,Eye and Vision Services Providers|Optometrist,630556,1396701421.0,75482,WILLIAM,BRYANT,Covered Recipient Physician
+386,Allopathic & Osteopathic Physicians|Orthopaedic Surgery,677466,1023162732.0,75482,RICHARD,GRAVES,Covered Recipient Physician
+387,Dental Providers|Dentist|Periodontics,281181,1184754707.0,77904,RICHARD,HEARD,Covered Recipient Physician
+388,Allopathic & Osteopathic Physicians|Family Medicine,846180,1962462838.0,77904,RICHARD,QUIGLEY,Covered Recipient Physician
+389,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10703310,1093384943.0,77904,JENNIFER,LOPEZ,Covered Recipient Non-Physician Practitioner
+390,Physician Assistants & Advanced Practice Nursing Providers|Physician Assistant|Medical,11011372,1538531249.0,78712,DIANA,MENDOZA,Covered Recipient Non-Physician Practitioner
+391,Allopathic & Osteopathic Physicians|Obstetrics & Gynecology,954433,1760772859.0,78712,LAUREN,THAXTON,Covered Recipient Physician
+392,Allopathic & Osteopathic Physicians|Orthopaedic Surgery|Adult Reconstructive Orthopaedic Surgery,1391080,1578846002.0,78712,DAVID,BRIGATI,Covered Recipient Physician
+393,Dental Providers|Dentist,716058,1376700724.0,70501,SANDHYA,KRISHAN,Covered Recipient Physician
+394,Dental Providers|Dentist|General Practice,1062618,1568588077.0,70501,ROBERT,LIMOSNERO,Covered Recipient Physician
+395,Allopathic & Osteopathic Physicians|Pediatrics,516434,1376557520.0,78956,MICHELE,JAMES,Covered Recipient Physician
+396,Dental Providers|Dentist|General Practice,575112,1447258793.0,78956,ALAN,HERZIK,Covered Recipient Physician
+397,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10999002,1639755325.0,78956,AMANDA,KLEIN,Covered Recipient Non-Physician Practitioner
+398,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,11204044,1205438900.0,75791,SARAH,MILLS,Covered Recipient Non-Physician Practitioner
+399,Allopathic & Osteopathic Physicians|Psychiatry & Neurology|Psychiatry,3899341,1013355676.0,75791,RALPH,DE SIMILIEN,Covered Recipient Physician
+400,Dental Providers|Dentist|General Practice,549820,1558576231.0,75791,FOY,HAMONS,Covered Recipient Physician
+401,Allopathic & Osteopathic Physicians|Internal Medicine,176351,1871561035.0,78734,BRENT,BENNETT,Covered Recipient Physician
+402,Dental Providers|Dentist|Oral and Maxillofacial Surgery,173786,1831377704.0,78734,RUSSELL,CUNNINGHAM,Covered Recipient Physician
+403,Dental Providers|Dentist|General Practice,548591,1518021526.0,78734,MERRILY,SANDFORD,Covered Recipient Physician
+404,Dental Providers|Dentist,823792,1184023210.0,75941,JOHNNY,MASON,Covered Recipient Physician
+405,Dental Providers|Dentist,6811453,1851953954.0,75941,KYLE,SNYDER,Covered Recipient Physician
+406,Dental Providers|Dentist|General Practice,1066711,1700292026.0,75941,VINEET,SHARMA,Covered Recipient Physician
+407,Allopathic & Osteopathic Physicians|Family Medicine,352152,1750319323.0,78636,DAN,SEVERA,Covered Recipient Physician
+408,Dental Providers|Dentist,510055,1154475150.0,78636,DAVID,WHITE,Covered Recipient Physician
+409,Allopathic & Osteopathic Physicians|Family Medicine,129167,1841248408.0,78636,JOHN,WEAVER,Covered Recipient Physician
+410,Allopathic & Osteopathic Physicians|Family Medicine,975363,1497787733.0,18154,BAO,TRAN,Covered Recipient Physician
+411,Dental Providers|Dentist|General Practice,963646,1083735419.0,75846,JEFFREY,FAHLER,Covered Recipient Physician
+412,Allopathic & Osteopathic Physicians|Emergency Medicine,1262267,1598927543.0,75560,ANDREW,FROST,Covered Recipient Physician
+413,Chiropractic Providers|Chiropractor,189946,1205018686.0,76207,JASON,MANIN,Covered Recipient Physician
+414,Allopathic & Osteopathic Physicians|Internal Medicine,105930,1326252255.0,76207,RANI,ANBARASU,Covered Recipient Physician
+415,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Psychiatric/Mental Health,10933772,1619433554.0,76207,CRYSTAL,HILL,Covered Recipient Non-Physician Practitioner
+416,,1314459,,77881,MARSHA,SOECHTING,Covered Recipient Physician
+417,Dental Providers|Dentist,638595,1669715124.0,78750,RICKFORD,REDMOND,Covered Recipient Physician
+418,Allopathic & Osteopathic Physicians|Pediatrics,736595,1104838085.0,78750,MICHELLE,UMENGAN,Covered Recipient Physician
+419,Chiropractic Providers|Chiropractor,387959,1871920256.0,78750,MATTHEW,JOHNSON,Covered Recipient Physician
+420,Allopathic & Osteopathic Physicians|Family Medicine,504209,1952301418.0,77536,LISA,SACHDEV,Covered Recipient Physician
+421,Allopathic & Osteopathic Physicians|Obstetrics & Gynecology,3313730,1740523372.0,77536,HA,NGUYEN,Covered Recipient Physician
+422,Allopathic & Osteopathic Physicians|Family Medicine,590150,1972722064.0,77536,JUDITH,CADORE,Covered Recipient Physician
+423,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,11081509,1932496692.0,76559,JENNIFER,ISTRE,Covered Recipient Non-Physician Practitioner
+424,Allopathic & Osteopathic Physicians|Internal Medicine|Pulmonary Disease,8375,1174583751.0,77598,NIRANJAN,IYER,Covered Recipient Physician
+425,"Allopathic & Osteopathic Physicians|Internal Medicine|Endocrinology, Diabetes & Metabolism",248682,1477507044.0,77598,MUHAMMAD,ARIAN,Covered Recipient Physician
+426,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10814702,1528534435.0,77598,ANITA,LEAL,Covered Recipient Non-Physician Practitioner
+427,Allopathic & Osteopathic Physicians|Family Medicine,7229761,1578069431.0,78216,ANALICIA,DE LOS SANTOS,Covered Recipient Physician
+428,Allopathic & Osteopathic Physicians|Family Medicine,329232,1245495530.0,78216,JOSHUA,BECK,Covered Recipient Physician
+429,Allopathic & Osteopathic Physicians|Family Medicine,346400,1629117031.0,78216,CORNELIA,WINTER,Covered Recipient Physician
+430,Eye and Vision Services Providers|Optometrist,5905865,1437714490.0,77539,LONG,VU,Covered Recipient Physician
+431,Allopathic & Osteopathic Physicians|Psychiatry & Neurology|Psychiatry,127865,1811186844.0,77539,HOWARD,BOLAND,Covered Recipient Physician
+432,Dental Providers|Dentist|Endodontics,1015784,1922109818.0,77539,KATRINA,SCHAEFER,Covered Recipient Physician
+433,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Pediatrics,10832640,1932697570.0,79927,VICTORIA,VEGA,Covered Recipient Non-Physician Practitioner
+434,Eye and Vision Services Providers|Optometrist,476593,1972616134.0,79927,RICHARD,JACKSON,Covered Recipient Physician
+435,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10925291,1942782537.0,79927,MONICA,OGAZ,Covered Recipient Non-Physician Practitioner
+436,Physician Assistants & Advanced Practice Nursing Providers|Physician Assistant,10785542,1336324532.0,75454,JENNIFER,ARIAS,Covered Recipient Non-Physician Practitioner
+437,Allopathic & Osteopathic Physicians|Family Medicine,1306526,1518178078.0,75454,LINH,HUYNH,Covered Recipient Physician
+438,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner,10835484,1134631542.0,75454,JAIME,TYLER,Covered Recipient Non-Physician Practitioner
+439,Dental Providers|Dentist,724978,1689725723.0,77446,CHRISTOPHER,BARTHOLOMEW,Covered Recipient Physician
+440,Allopathic & Osteopathic Physicians|Internal Medicine,1045675,1962578831.0,77446,GLENN,BERRY,Covered Recipient Physician
+441,Physician Assistants & Advanced Practice Nursing Providers|Physician Assistant|Medical,10831708,1811178031.0,75845,KEITH,JONES,Covered Recipient Non-Physician Practitioner
+442,Allopathic & Osteopathic Physicians|Family Medicine,1022502,1154304467.0,75845,JAMES,COCHRAN,Covered Recipient Physician
+443,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10885844,1952869760.0,75845,MELANIE,PARKER,Covered Recipient Non-Physician Practitioner
+444,Dental Providers|Dentist|Orthodontics and Dentofacial Orthopedics,6654019,1215497979.0,78741,BRADLEY,ALBERTSON,Covered Recipient Physician
+445,Allopathic & Osteopathic Physicians|Ophthalmology,273279,1013949973.0,78741,JOHN,FISHER,Covered Recipient Physician
+446,Allopathic & Osteopathic Physicians|Family Medicine,170937,1770739914.0,78741,PRASHANT,REDDY,Covered Recipient Physician
+447,Eye and Vision Services Providers|Optometrist,2345607,1114378601.0,76311,REBECCA,SHAHI,Covered Recipient Physician
+448,Physician Assistants & Advanced Practice Nursing Providers|Physician Assistant,10866410,1508417809.0,76311,KAITLYN,SHOTWELL,Covered Recipient Non-Physician Practitioner
+449,,2784042,1902008980.0,76311,JASON,CROMAR,Covered Recipient Physician
+450,Podiatric Medicine & Surgery Service Providers|Podiatrist,133802,1962495341.0,75703,CHARLES,RHODUS,Covered Recipient Physician
+451,Allopathic & Osteopathic Physicians|Family Medicine,365859,1093153645.0,75703,MICHELLE,PARKER,Covered Recipient Physician
+452,Allopathic & Osteopathic Physicians|Family Medicine,1027943,1346272671.0,75703,HOPE,SHORT,Covered Recipient Physician
+453,Physician Assistants & Advanced Practice Nursing Providers|Advanced Practice Midwife,11239256,1922480169.0,76041,ASHLEY,GREENE,Covered Recipient Non-Physician Practitioner
+454,Allopathic & Osteopathic Physicians|Family Medicine,558764,1871781302.0,76701,ROBERT,RAINEY,Covered Recipient Physician
+455,Allopathic & Osteopathic Physicians|Family Medicine,2545292,1730478777.0,76701,GARRET,POOL,Covered Recipient Physician
+456,Physician Assistants & Advanced Practice Nursing Providers|Physician Assistant|Medical,10903050,1285888768.0,76701,JENNY,NELSON,Covered Recipient Non-Physician Practitioner
+457,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10424888,1861905523.0,75654,BRENDA,IFFLAND,Covered Recipient Non-Physician Practitioner
+458,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10424771,1891046801.0,75654,BROOKE,SPIELBAUER,Covered Recipient Non-Physician Practitioner
+459,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Psychiatric/Mental Health,10691610,1205386349.0,75654,ROBIN,WATSON,Covered Recipient Non-Physician Practitioner
+460,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10881222,1639711401.0,79752,ERIN,MANN,Covered Recipient Non-Physician Practitioner
+461,Dental Providers|Dentist|General Practice,533722,1982777660.0,78355,WILLIAM,TINNELL,Covered Recipient Physician
+462,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10619985,1790269140.0,78355,CLAUDIO,VAZQUEZ,Covered Recipient Non-Physician Practitioner
+463,Physician Assistants & Advanced Practice Nursing Providers|Physician Assistant,10854857,1649632266.0,78355,LAURA,REQUENEZ,Covered Recipient Non-Physician Practitioner
+464,Allopathic & Osteopathic Physicians|Obstetrics & Gynecology,1185044,1861494130.0,77021,JACQUELINE,BROWN,Covered Recipient Physician
+465,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Psychiatric/Mental Health,11027313,1720688930.0,77021,KOURTNEY,TAPNIO,Covered Recipient Non-Physician Practitioner
+466,Eye and Vision Services Providers|Optometrist,92477,1033209416.0,77021,MARK,LE,Covered Recipient Physician
+467,Allopathic & Osteopathic Physicians|Internal Medicine|Medical Oncology,266080,1861433542.0,77462,HARRY,SMITH,Covered Recipient Physician
+468,Eye and Vision Services Providers|Optometrist,9862172,1043886005.0,77523,SUMMER,VU,Covered Recipient Physician
+469,,11253730,1447737556.0,77523,ADOLAT,MIRZAEVA,Covered Recipient Physician
+470,Physician Assistants & Advanced Practice Nursing Providers|Physician Assistant|Medical,10540622,1699755108.0,77523,KATIE,MCCRAY,Covered Recipient Non-Physician Practitioner
+471,,2782684,1003158379.0,78284,MICHAEL,JAMIESON,Covered Recipient Physician
+472,Allopathic & Osteopathic Physicians|Internal Medicine|Cardiovascular Disease,448927,1003938069.0,76210,TANVEER,QURESHI,Covered Recipient Physician
+473,Allopathic & Osteopathic Physicians|Family Medicine,9096021,1508436452.0,76210,BIANCA,MUNOZ,Covered Recipient Physician/Covered Recipient Non-Physician Practitioner
+474,Allopathic & Osteopathic Physicians|Psychiatry & Neurology|Neurology,1045703,1962430553.0,76210,MOHAMED,SUMMAKIA,Covered Recipient Physician
+475,Allopathic & Osteopathic Physicians|Internal Medicine,165522,1649289497.0,78537,MICHAEL,FLORES,Covered Recipient Physician
+476,Eye and Vision Services Providers|Optometrist,358270,1902107279.0,78537,CHRISTOPHER,GUILLEN,Covered Recipient Physician
+477,Allopathic & Osteopathic Physicians|Family Medicine,9855300,1750875936.0,78537,DANIELA,GARCIA,Covered Recipient Physician
+478,Allopathic & Osteopathic Physicians|Family Medicine,722579,1609851849.0,77859,DARRELL,ENGLISH,Covered Recipient Physician
+479,Allopathic & Osteopathic Physicians|Internal Medicine,24647,1558388579.0,77859,VENKAT,THADAREDDY,Covered Recipient Physician
+480,Dental Providers|Dentist|General Practice,4638684,1013458942.0,78753,HIEU,PHAM,Covered Recipient Physician
+481,Dental Providers|Dentist|General Practice,596189,1184816936.0,78753,JOSEPH,BOOTH,Covered Recipient Physician
+482,Physician Assistants & Advanced Practice Nursing Providers|Physician Assistant,11272844,1457889123.0,78753,MAY,TUMONONG,Covered Recipient Non-Physician Practitioner
+483,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner,10737385,1710233267.0,75021,WHITTNEY,RICHARDSON,Covered Recipient Non-Physician Practitioner
+484,Allopathic & Osteopathic Physicians|Urology,1214001,1881665149.0,78243,KAREN,SMITH,Covered Recipient Physician
+485,Dental Providers|Dentist|General Practice,1013914,1841472206.0,75224,JAMES,RICHARDS,Covered Recipient Physician
+486,Physician Assistants & Advanced Practice Nursing Providers|Physician Assistant,11141649,1518108851.0,75224,NOHEMI,RANDLE,Covered Recipient Non-Physician Practitioner
+487,Allopathic & Osteopathic Physicians|Pain Medicine|Interventional Pain Medicine,1018777,1013979178.0,75224,ISABEL,ANYANWU,Covered Recipient Physician
+488,Physician Assistants & Advanced Practice Nursing Providers|Physician Assistant,11192925,1386265783.0,78501,MEGAN,CHAVEZ,Covered Recipient Non-Physician Practitioner
+489,Dental Providers|Dentist|General Practice,974376,1457678864.0,78501,DEANNA,MATHISEN,Covered Recipient Physician
+490,Dental Providers|Dentist,115784,1548371552.0,78501,PABLO,TAGLE,Covered Recipient Physician
+491,Dental Providers|Dentist,453588,1164652954.0,77047,SHIVANI,SHAH,Covered Recipient Physician
+492,Allopathic & Osteopathic Physicians|Anesthesiology|Pain Medicine,1012997,1811330764.0,77047,KRISHNA,SHAH,Covered Recipient Physician
+493,Allopathic & Osteopathic Physicians|Radiology|Diagnostic Radiology,1129026,1891786919.0,77047,JILL,HUNTER,Covered Recipient Physician
+494,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,11228067,1053757179.0,77015,PHEBA,PAPPACHAN,Covered Recipient Non-Physician Practitioner
+495,Allopathic & Osteopathic Physicians|Internal Medicine,316028,1972794154.0,77015,MELISSA,AMADOR,Covered Recipient Physician
+496,Allopathic & Osteopathic Physicians|Pediatrics,1137975,1205837507.0,77015,LEAH,MATTHEWS,Covered Recipient Physician
+497,Allopathic & Osteopathic Physicians|Family Medicine,165185,1659313328.0,75474,KENNETH,DORITY,Covered Recipient Physician
+498,Dental Providers|Dentist|General Practice,15494,1356409452.0,75474,SHEELA,THOMAS,Covered Recipient Physician
+499,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10873638,1053571596.0,75474,MAVIS,HAMPTON,Covered Recipient Non-Physician Practitioner
+500,Dental Providers|Dentist,455751,1245287424.0,78728,FATEMEH,SAMANI,Covered Recipient Physician
+501,Allopathic & Osteopathic Physicians|Colon & Rectal Surgery,291524,1427187350.0,78728,THIRU,LAKSHMAN,Covered Recipient Physician
+502,Chiropractic Providers|Chiropractor,463955,1538385224.0,78728,JOE,RODRIGUEZ,Covered Recipient Physician
+503,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Primary Care,10635833,1942337563.0,78160,CECELIA,KOTHMANN,Covered Recipient Non-Physician Practitioner
+504,Dental Providers|Dentist|General Practice,1160068,1982752622.0,78160,REBECCA,GABRIEL,Covered Recipient Physician
+505,Allopathic & Osteopathic Physicians|Family Medicine,340687,1508808700.0,78160,DARYL,CURRIER,Covered Recipient Physician
+506,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10446523,1548349467.0,79416,JENNIFER,COLEMAN,Covered Recipient Non-Physician Practitioner
+507,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10828832,1629412598.0,79416,KYZANDRE,GRIFFITH,Covered Recipient Non-Physician Practitioner
+508,,1315235,,79416,KWAN-HO,CHAN,Covered Recipient Physician
+509,Allopathic & Osteopathic Physicians|Family Medicine,169874,1730189408.0,77327,JOSEPH,GOIN,Covered Recipient Physician
+510,Dental Providers|Dentist|General Practice,8798741,1265049597.0,77327,LEILA,SAEED,Covered Recipient Physician
+511,Allopathic & Osteopathic Physicians|Family Medicine,161014,1558423780.0,77327,CAMIL,KREIT,Covered Recipient Physician
+512,Allopathic & Osteopathic Physicians|Internal Medicine|Clinical Cardiac Electrophysiology,943804,1396724373.0,75608,PETER,CHEUNG,Covered Recipient Physician
+513,"Physician Assistants & Advanced Practice Nursing Providers|Nurse Anesthetist, Certified Registered",11017185,1992103832.0,75608,STEPHEN,HOOK,Covered Recipient Non-Physician Practitioner
+514,Physician Assistants & Advanced Practice Nursing Providers|Physician Assistant|Medical,11118472,1689851370.0,75979,LAUREN,CONNER,Covered Recipient Non-Physician Practitioner
+515,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,11138959,1285004366.0,75979,CURTIS,EVANS,Covered Recipient Non-Physician Practitioner
+516,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10523208,1366080376.0,75979,ANDREA,YANCEY,Covered Recipient Non-Physician Practitioner
+517,Physician Assistants & Advanced Practice Nursing Providers|Physician Assistant,10830945,1801109715.0,78566,CATHERINE,CAMARILLO,Covered Recipient Non-Physician Practitioner
+518,Dental Providers|Dentist,355187,1811900103.0,78566,ADAM,LALONDE,Covered Recipient Physician
+519,Dental Providers|Dentist|General Practice,868788,1770543654.0,78566,GRAYSON,SELLERS,Covered Recipient Physician
+520,Allopathic & Osteopathic Physicians|Obstetrics & Gynecology|Reproductive Endocrinology,791782,1053337816.0,78717,CAROL,PETERS,Covered Recipient Physician
+521,Eye and Vision Services Providers|Optometrist,39767,1881756807.0,78717,SUNDRA,LEMANSKI,Covered Recipient Physician
+522,Allopathic & Osteopathic Physicians|Internal Medicine,298036,1568451201.0,78717,JOHN,HALL,Covered Recipient Physician
+523,Dental Providers|Dentist|General Practice,682520,1205053345.0,79072,DANIEL,HENDERSON,Covered Recipient Physician
+524,Allopathic & Osteopathic Physicians|Family Medicine,7558046,1326650821.0,79072,JULIA,ONTIVEROS,Covered Recipient Physician/Covered Recipient Non-Physician Practitioner
+525,Dental Providers|Dentist|General Practice,1078163,1114133840.0,79072,RANDALL,MEYER,Covered Recipient Physician
+526,Allopathic & Osteopathic Physicians|Family Medicine,539043,1174937296.0,78147,NATHAN,ESHENRODER,Covered Recipient Physician
+527,Allopathic & Osteopathic Physicians|Family Medicine,783734,1770530016.0,78236,DONALD,DETMERING,Covered Recipient Physician
+528,Dental Providers|Dentist,678161,1043624695.0,78236,HARRISON,GORDNER,Covered Recipient Physician
+529,Allopathic & Osteopathic Physicians|Emergency Medicine,5325028,1043699697.0,78236,WILLIAM,DAVIS,Covered Recipient Physician
+530,Dental Providers|Dentist|General Practice,1017925,1992008932.0,75407,JODY,GILL,Covered Recipient Physician
+531,Dental Providers|Dentist,1332038,1043692965.0,75407,CHRISTINA,ADAME VILLARREAL,Covered Recipient Physician
+532,Dental Providers|Dentist|Pediatric Dentistry,874559,1962810929.0,75407,QUANG,DAO,Covered Recipient Physician
+533,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10779567,1881999175.0,77078,SANDRA,GONZALEZ,Covered Recipient Non-Physician Practitioner
+534,Allopathic & Osteopathic Physicians|Emergency Medicine,810900,1730123456.0,75180,CLAIRE,MCARTHUR,Covered Recipient Physician
+535,Dental Providers|Dentist|General Practice,1033435,1538365630.0,75180,MARIA,NGUYEN,Covered Recipient Physician
+536,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10504036,1871139857.0,75180,STACY,LEPSCH,Covered Recipient Non-Physician Practitioner
+537,Dental Providers|Dentist|General Practice,755113,1750384145.0,76834,LAWRENCE,THOMPSON,Covered Recipient Physician
+538,Allopathic & Osteopathic Physicians|Family Medicine,863886,1598997298.0,76834,JOHN,HORNER,Covered Recipient Physician
+539,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner,10876568,1265559645.0,76834,DAVID,LONGLEY,Covered Recipient Non-Physician Practitioner
+540,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10660333,1821655770.0,78526,MICHAEL,WARREN,Covered Recipient Non-Physician Practitioner
+541,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10973490,1659882538.0,78526,DAVID,RODRIGUEZ,Covered Recipient Non-Physician Practitioner
+542,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10745546,1306480082.0,78526,SIGRID,RAZO MORENO,Covered Recipient Non-Physician Practitioner
+543,Dental Providers|Dentist|Periodontics,624486,1184603243.0,79414,GLENN,MATTLAGE,Covered Recipient Physician
+544,Eye and Vision Services Providers|Optometrist,716470,1396861167.0,79414,KIMBERLY,STEWART,Covered Recipient Physician
+545,Allopathic & Osteopathic Physicians|Anesthesiology,303052,1679535371.0,79414,JONATHAN,LATOUR,Covered Recipient Physician
+546,Allopathic & Osteopathic Physicians|Psychiatry & Neurology|Psychiatry,6960415,1164878914.0,78539,NICHOLAS,ORTIZ,Covered Recipient Physician
+547,Allopathic & Osteopathic Physicians|General Practice,958909,1922097583.0,78539,ROBERTO,RUIZ,Covered Recipient Physician
+548,Allopathic & Osteopathic Physicians|Pediatrics,900483,1871706614.0,78539,DANIELLA,RODRIGUEZ RICO,Covered Recipient Physician
+549,Dental Providers|Dentist|General Practice,6869500,1326694894.0,75209,BLAKE,BURNSTAD,Covered Recipient Physician
+550,Dental Providers|Dentist,396745,1184652166.0,75209,JAMES,HIBBS,Covered Recipient Physician
+551,Allopathic & Osteopathic Physicians|Emergency Medicine,449480,1023248986.0,75209,WOODROW,GANDY,Covered Recipient Physician
+552,Allopathic & Osteopathic Physicians|Surgery,1304022,1962664128.0,79029,MARGARET,BOWER,Covered Recipient Physician
+553,Allopathic & Osteopathic Physicians|Anesthesiology,604841,1497813588.0,79029,STELLA,TAN,Covered Recipient Physician
+554,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,11120702,1851853311.0,79029,SANDRA RENEE,BOYD,Covered Recipient Non-Physician Practitioner
+555,Dental Providers|Dentist,2887721,1114447869.0,78150,CHERRY,CHOY,Covered Recipient Physician
+556,Allopathic & Osteopathic Physicians|Pediatrics,745584,1427042183.0,78150,KAREN,RYAN-PHILPOTT,Covered Recipient Physician
+557,Eye and Vision Services Providers|Optometrist,1144258,1417917451.0,78150,DARREN,RHOTON,Covered Recipient Physician
+558,Dental Providers|Dentist|General Practice,559238,1881901981.0,75041,LISSETTE,ORTEGA,Covered Recipient Physician
+559,Allopathic & Osteopathic Physicians|Internal Medicine,130052,1861414005.0,75041,NHU,TRAN,Covered Recipient Physician
+560,Physician Assistants & Advanced Practice Nursing Providers|Physician Assistant,10895108,1659636488.0,75041,JASON,THARPE,Covered Recipient Non-Physician Practitioner
+561,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Adult Health,10925884,1033133988.0,77075,CLAY,KELLER,Covered Recipient Non-Physician Practitioner
+562,Eye and Vision Services Providers|Optometrist,590657,1982911103.0,77075,CLINTON,CHEE,Covered Recipient Physician
+563,Eye and Vision Services Providers|Optometrist,923866,1699785071.0,77075,ANH,TRAN,Covered Recipient Physician
+564,Allopathic & Osteopathic Physicians|Family Medicine,1148158,1568443323.0,78076,ERNEST,CABRERA,Covered Recipient Physician
+565,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,11018882,1124005426.0,78076,MARY,PLATTNER,Covered Recipient Non-Physician Practitioner
+566,Dental Providers|Dentist|General Practice,1103837,1003921115.0,78076,JOHNNY,CAVAZOS,Covered Recipient Physician
+567,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10577864,1598148306.0,77046,TAWNYA,SLAFKA,Covered Recipient Non-Physician Practitioner
+568,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10774420,1518417906.0,77046,ANGELE,APPLEGATE,Covered Recipient Non-Physician Practitioner
+569,Allopathic & Osteopathic Physicians|Internal Medicine,261167,1750348348.0,77046,KAREN,HILL,Covered Recipient Physician
+570,Allopathic & Osteopathic Physicians|Internal Medicine,84732,1861462491.0,76012,DEAN,CARRINGTON,Covered Recipient Physician
+571,Allopathic & Osteopathic Physicians|Emergency Medicine,1253003,1306815592.0,76012,RICHARD,NEVILLE,Covered Recipient Physician
+572,Allopathic & Osteopathic Physicians|Pediatrics,1269241,1841260999.0,76012,KATHERINE,BRUCE,Covered Recipient Physician
+573,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner,10482649,1275033664.0,78505,DULCE,CANO,Covered Recipient Non-Physician Practitioner
+574,Physician Assistants & Advanced Practice Nursing Providers|Physician Assistant|Medical,10669993,1598296857.0,78505,CLAUDIA,MALDONADO,Covered Recipient Non-Physician Practitioner
+575,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,11121476,1972852671.0,76360,DURON,CRANFORD,Covered Recipient Non-Physician Practitioner
+576,Allopathic & Osteopathic Physicians|Family Medicine,5481734,1871972588.0,76360,LAURA,TEVENI,Covered Recipient Physician
+577,Dental Providers|Dentist|Periodontics,1191293,1083911846.0,77449,ANDREW,KIM,Covered Recipient Physician
+578,Dental Providers|Dentist|General Practice,4509968,1366934259.0,77449,VINCENT,HSU,Covered Recipient Physician
+579,Eye and Vision Services Providers|Optometrist,729988,1861708950.0,77449,MELISSA,CARCANO,Covered Recipient Physician
+580,Allopathic & Osteopathic Physicians|Internal Medicine,1138898,1235383290.0,74429,HUY,NGUYEN,Covered Recipient Physician
+581,"Physician Assistants & Advanced Practice Nursing Providers|Nurse Anesthetist, Certified Registered",11213932,1972551059.0,75501,TAMMY,WARD,Covered Recipient Non-Physician Practitioner
+582,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10989358,1861900904.0,75501,TIFFANY,BAUGUS,Covered Recipient Non-Physician Practitioner
+583,Allopathic & Osteopathic Physicians|Surgery,135154,1972504884.0,75501,THOMAS,HILLIS,Covered Recipient Physician
+584,Allopathic & Osteopathic Physicians|Family Medicine,22535,1518083062.0,78154,STEPHEN,CARTER,Covered Recipient Physician
+585,Dental Providers|Dentist|Orthodontics and Dentofacial Orthopedics,1120565,1609088145.0,78154,CHARLES,PETERS,Covered Recipient Physician
+586,Allopathic & Osteopathic Physicians|Internal Medicine,195846,1316934854.0,78154,LORRAINE,SHIRLEY WENZEL,Covered Recipient Physician
+587,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Pediatrics,11267752,1003442906.0,77360,RENELLA,BOULLION,Covered Recipient Non-Physician Practitioner
+588,Dental Providers|Dentist|General Practice,591858,1033225123.0,77360,KENNETH,ROLAND,Covered Recipient Physician
+589,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10919505,1538508163.0,77360,KENNETH,FULLER,Covered Recipient Non-Physician Practitioner
+590,Allopathic & Osteopathic Physicians|Psychiatry & Neurology|Psychiatry,1185934,1902067408.0,79602,DAVID,BELCHER,Covered Recipient Physician
+591,Allopathic & Osteopathic Physicians|Surgery|Plastic and Reconstructive Surgery,696107,1679735393.0,79602,KEVIN,BRIDGE,Covered Recipient Physician
+592,Allopathic & Osteopathic Physicians|Internal Medicine,500444,1811094386.0,79602,IMRAN,YAZDANI,Covered Recipient Physician
+593,Dental Providers|Dentist|General Practice,822280,1124330550.0,76273,MINAH,CAMPBELL,Covered Recipient Physician
+594,Allopathic & Osteopathic Physicians|Family Medicine,72242,1609076124.0,76273,CHRISTOPHER,JONES,Covered Recipient Physician
+595,Allopathic & Osteopathic Physicians|Family Medicine,605363,1518042332.0,76273,ALFRED,JOWITT,Covered Recipient Physician
+596,Dental Providers|Dentist|General Practice,1216750,1972867349.0,78736,ERIC,BROBERG,Covered Recipient Physician
+597,Allopathic & Osteopathic Physicians|Family Medicine,390153,1942610308.0,78736,MEGAN,DELIBERATO,Covered Recipient Physician
+598,Allopathic & Osteopathic Physicians|Surgery,1105447,1063527224.0,78736,DORSEY,COFFEY,Covered Recipient Physician
+599,Dental Providers|Dentist|General Practice,1080218,1184786147.0,78225,CHRISTOPHER,WATKINS,Covered Recipient Physician
+600,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,11093043,1801355185.0,78225,JENNIFER,MANTICA,Covered Recipient Non-Physician Practitioner
+601,Chiropractic Providers|Chiropractor,812159,1770629123.0,78225,JUAN,GARCIA,Covered Recipient Physician
+602,Chiropractic Providers|Chiropractor,1203336,1508868449.0,76058,JOSEPH,THOMAS,Covered Recipient Physician
+603,Allopathic & Osteopathic Physicians|Family Medicine,308353,1801892443.0,76058,ROBERT,MILLER,Covered Recipient Physician
+604,Allopathic & Osteopathic Physicians|Family Medicine,237150,1225044126.0,76058,RAJA,SAADE,Covered Recipient Physician
+605,Dental Providers|Dentist|General Practice,3229651,1851821920.0,75974,RAYMOND,BARRON,Covered Recipient Physician
+606,Allopathic & Osteopathic Physicians|Emergency Medicine,1183574,1821010042.0,78155,KYU,KIM,Covered Recipient Physician
+607,Allopathic & Osteopathic Physicians|Obstetrics & Gynecology,334418,1366490229.0,78155,GEORGE,MANNEL,Covered Recipient Physician
+608,Allopathic & Osteopathic Physicians|Family Medicine,999016,1326112715.0,78155,SULE,BILIR,Covered Recipient Physician
+609,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10951552,1003073800.0,75956,KAMESHA,BARNES,Covered Recipient Non-Physician Practitioner
+610,Allopathic & Osteopathic Physicians|Family Medicine,484382,1245381250.0,75956,JOHN,SESSIONS,Covered Recipient Physician
+611,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,11207788,1508483397.0,75956,MISTY,HALTOM,Covered Recipient Non-Physician Practitioner
+612,Allopathic & Osteopathic Physicians|Anesthesiology,1001870,1417919580.0,75240,SELVI,POHAR,Covered Recipient Physician
+613,Allopathic & Osteopathic Physicians|Anesthesiology,20703,1467402420.0,75240,JEFFREY,ELMORE,Covered Recipient Physician
+614,Allopathic & Osteopathic Physicians|Anesthesiology,737547,1134303712.0,75240,PETER,LIN,Covered Recipient Physician
+615,Allopathic & Osteopathic Physicians|Family Medicine,75479,1659474211.0,78226,HARRY,HERNANDEZ,Covered Recipient Physician
+616,Allopathic & Osteopathic Physicians|Family Medicine,11454,1255589511.0,78226,OSCAR,GUTIERREZ,Covered Recipient Physician
+617,Allopathic & Osteopathic Physicians|General Practice,1202474,1487690798.0,78226,LEONEL,TANO,Covered Recipient Physician
+618,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10484187,1417290685.0,78071,LYNN,BULLARD,Covered Recipient Non-Physician Practitioner
+619,Allopathic & Osteopathic Physicians|Family Medicine,1346450,1356721955.0,78071,SEAN,CHAMBERLAIN,Covered Recipient Physician
+620,Allopathic & Osteopathic Physicians|Family Medicine,366802,1124099007.0,78071,WAYNE,GHANS,Covered Recipient Physician
+621,Nursing Service Providers|Licensed Practical Nurse,10602531,1477057776.0,76384,BRITTANY,DUNCAN,Covered Recipient Non-Physician Practitioner
+622,Allopathic & Osteopathic Physicians|Emergency Medicine,1107664,1144248022.0,76384,JAY,SIGEL,Covered Recipient Physician
+623,,8802145,1649399452.0,76384,GAIL,JOHNSON,Covered Recipient Physician
+624,Allopathic & Osteopathic Physicians|Family Medicine,1212342,1811989858.0,76310,MITCHELL,WOLFE,Covered Recipient Physician
+625,Allopathic & Osteopathic Physicians|Urology,1392953,1558636639.0,76310,PAUL,BENSON,Covered Recipient Physician
+626,Allopathic & Osteopathic Physicians|Family Medicine,1349152,1396127684.0,76310,CHRISTOPHER,GODWIN,Covered Recipient Physician
+627,Allopathic & Osteopathic Physicians|Plastic Surgery,2060726,1528418134.0,76598,MATTHEW,NOVAK,Covered Recipient Physician
+628,Dental Providers|Dentist|General Practice,660055,1427106459.0,79041,MICHAEL,HINZE,Covered Recipient Physician
+629,Allopathic & Osteopathic Physicians|Family Medicine,103711,1275866212.0,79041,JOHN,MCCLANAHAN,Covered Recipient Physician
+630,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Gerontology,11019230,1154647337.0,77051,MYLA,MAGNO,Covered Recipient Non-Physician Practitioner
+631,Dental Providers|Dentist,559826,1902967151.0,77051,CHUR,CHIU,Covered Recipient Physician
+632,,8790155,1093371254.0,77051,EMMANUEL,ACHILIKE,Covered Recipient Physician
+633,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Psychiatric/Mental Health,11275378,1144988775.0,78599,ANTHONY,HERRERA,Covered Recipient Non-Physician Practitioner
+634,Allopathic & Osteopathic Physicians|Internal Medicine,220115,1841393485.0,78599,LETICIA,VOLPE,Covered Recipient Physician
+635,Allopathic & Osteopathic Physicians|Pediatrics,246134,1437115003.0,78599,CATARINA,POSADA,Covered Recipient Physician
+636,Dental Providers|Dentist,1243674,1932322039.0,77034,JAMES,BURNHAM,Covered Recipient Physician
+637,Eye and Vision Services Providers|Optometrist,1000371,1376854679.0,77034,ALFRED,SANCHEZ,Covered Recipient Physician
+638,Dental Providers|Dentist|Pediatric Dentistry,129237,1841425394.0,77034,JESSICA,MARSHALL,Covered Recipient Physician
+639,Dental Providers|Dentist|Orthodontics and Dentofacial Orthopedics,4215932,1205242427.0,77471,YASAS,JAYARATNE,Covered Recipient Physician
+640,Dental Providers|Dentist|General Practice,369649,1225041460.0,77471,TIM,CHO,Covered Recipient Physician
+641,Allopathic & Osteopathic Physicians|Psychiatry & Neurology|Psychiatry,325930,1205005519.0,77471,YAHYA,SAEED,Covered Recipient Physician
+642,Allopathic & Osteopathic Physicians|Family Medicine,411354,1689963910.0,77435,JANNA,JANISH,Covered Recipient Physician
+643,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10804462,1801290499.0,77435,OLEVIA,GARCIA,Covered Recipient Non-Physician Practitioner
+644,Allopathic & Osteopathic Physicians|Family Medicine,250181,1528037579.0,77435,LARRY,PENICK,Covered Recipient Physician
+645,Allopathic & Osteopathic Physicians|Obstetrics & Gynecology,653369,1184693038.0,75142,MICHAEL,GLOVER,Covered Recipient Physician
+646,Allopathic & Osteopathic Physicians|Internal Medicine,206387,1548362098.0,75142,PRABHA,MOHAN,Covered Recipient Physician
+647,,1302637,1033113386.0,75142,ANGELINA,RIVERO,Covered Recipient Physician
+648,Allopathic & Osteopathic Physicians|Internal Medicine|Nephrology,1235112,1639112683.0,78704,EDITH,SIMMONS,Covered Recipient Physician
+649,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10655288,1447482161.0,78704,KATHLEEN,KRAFT,Covered Recipient Non-Physician Practitioner
+650,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Acute Care,10752176,1831774694.0,78704,LUIS,LANDEROS,Covered Recipient Non-Physician Practitioner
+651,Physician Assistants & Advanced Practice Nursing Providers|Nurse Practitioner|Family,10504362,1932444809.0,78341,WHITNEY,STACY,Covered Recipient Non-Physician Practitioner
+652,Dental Providers|Dentist|General Practice,667697,1689750226.0,77336,HARRY,NICHOLS,Covered Recipient Physician
+653,Eye and Vision Services Providers|Optometrist,199610,1396009205.0,77336,KATY,OWENS,Covered Recipient Physician
+654,Physician Assistants & Advanced Practice Nursing Providers|Clinical Nurse Specialist|Adult Health,11213548,1891935375.0,77336,SABRINA,MILLER,Covered Recipient Non-Physician Practitioner
